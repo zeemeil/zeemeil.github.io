@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MianMian's homepage"
+title                    : "Kunkun's homepage"
 title_separator          : "-"
 name                     : &name "Wang Zimian"
 description              : &description "CS & Math & Cryptography @ GZ University"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wang Zimian"
+  name             : "Kun kun"
   avatar           : "basketba_profile.jpg"
   bio              : "CS & Math & Cryptography & MPC @ GZU | Phd Candidate"
   location         : Guangzhou
