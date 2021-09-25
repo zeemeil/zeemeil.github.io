@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "MianMian's homepage"
 title_separator          : "-"
 name                     : &name "Wang Zimian"
-description              : &description "CS & Math & Cryptography @ Sun Yat-sen University"
+description              : &description "CS & Math & Cryptography @ GZ University"
 url                      : https://admiring-beaver-155f93.netlify.app #https://wangzimian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : wangzimian/wangzimian.github.io
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wang Zimian"
   avatar           : "basketba_profile.jpg"
-  bio              : "CS & Math & Cryptography & MPC @ SYSU | Phd Candidate"
+  bio              : "CS & Math & Cryptography & MPC @ GZU | Phd Candidate"
   location         : Guangzhou
   employer         :
   pubmed           :
