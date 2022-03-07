@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kunkun's homepage"
+title                    : "Kunkun's Homepage"
 title_separator          : "-"
 name                     : &name "Wang Zimian"
 description              : &description "CS & Math & Cryptography @ GZ University"
