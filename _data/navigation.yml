@@ -6,6 +6,6 @@ main:
   - title: "CV"
     url: /cv/
 
-  # - title: "Talks"
-  #   url: /talks/
+  - title: "Talks"  # In the main page show items
+    url: /talks/
 
