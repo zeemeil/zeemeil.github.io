@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wangzimian"
+  github           : "zeemeil"
   google_plus      :
   keybase          :
   instagram        : 
@@ -177,10 +177,10 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /:collection/:path/
+    permalink: "/:collection/:path/"
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: "/:collection/:path/"
   portfolio:
     output: true
     permalink: /:collection/:path/
