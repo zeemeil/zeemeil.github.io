@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Mathematics, GZ University, 2014/09-2017/06
-* PHD in Computational Mathematics, GZ University, 2017/09-2023/12
+* B.S. in Applied Mathematics, Guangzhou University, 2014/09-2017/06
+* PHD in Computational Mathematics, Guangzhou University, 2017/09-2023/12
 
 Research & Pulication
 ======
