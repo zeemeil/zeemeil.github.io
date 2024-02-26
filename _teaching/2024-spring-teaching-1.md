@@ -13,6 +13,7 @@ location: "Maoming City, China"
  It encompasses a wide range of topics from theoretical foundations like algorithms and data structures to practical applications like software engineering. We will cover some basic concepts in computer science like binary numbers, algorithms, abstraction, and more while also providing a gentle introduction to Python. Python is a very popular, general-purpose programming language used for everything from web development and scientific computing to AI and data analysis. We will go over Python syntax, work with some sample programs, and by the end of the lesson you should have a solid grasp of fundamentals that will serve as a foundation as we delve deeper into computational thinking approaches and programming techniques later in the course.
 
 The Fundamental of Compute Science and Python language
+
 [The slides](/files/Unit1and2.pdf) for a first lesson in Feb 26. 
 
 [The slides](/files/Unit3.pdf) for a second lesson in Feb 26. 
