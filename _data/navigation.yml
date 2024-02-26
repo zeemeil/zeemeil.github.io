@@ -9,3 +9,6 @@ main:
   - title: "Talks"  # In the main page show items
     url: /talks/
 
+  - title: "Teaching"
+    url: /teaching/
+
