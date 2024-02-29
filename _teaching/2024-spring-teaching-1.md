@@ -17,3 +17,5 @@ The Fundamental of Compute Science and Python language
 [The slides](/files/Unit1and2.pdf) for a first lesson in Feb 26. 
 
 [The slides](/files/Unit3.pdf) for a second lesson in Feb 26. 
+
+[The slides](files/0229_周四第二次课_第3单元.pdf) contains [paper layout](files/0229_周四第二次课实验_论文排版.docx), [invitation](files/0229_周四第二次课实验_邀请函.docx) and [resume](files/0229_周四第二次课实验_简历.docx) based on Microsoft Office 2016.
