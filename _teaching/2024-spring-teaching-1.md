@@ -20,4 +20,6 @@ The Fundamental of Compute Science and Python language
 
 [The basic slides](/files/0229_thursday_unit3.pdf) and [the homework slides](/files/0229_thursday_second_word.pdf) contain [paper layout](/files/0229_thursday_second_PaperLayout.docx), [invitation](/files/0229_thursday_second_invitation.docx) and [resume](/files/0229_thursday_second_resume.docx) based on Microsoft Office Word 2016.
 
-[The slide](/files/0229_thursday_unit5.pdf) show the basic operation for Microsoft Excel 2016.
+[2024.3.4](/files/0304_week2_monday_third_Unit5.pdf) shows the basic operation for Microsoft Excel 2016. The practice work is this [file](/files/0304_week2_monday_third_Unit5_practice.xlsx). The part 1 students show [current work](/files/0304_week2_monday_third_Unit5_practice1.xlsx). The part 2 students operate [works like this](/files/0304_week2_monday_third_Unit5_practice2.xlsx).
+
+
