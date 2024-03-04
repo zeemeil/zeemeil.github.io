@@ -22,4 +22,4 @@ The Fundamental of Compute Science and Python language
 
 [2024.3.4](/files/0304_week2_monday_third_Unit5.pdf) shows the basic operation for Microsoft Excel 2016. The practice work is this [file](/files/0304_week2_monday_third_Unit5_practice.xlsx). The part 1 students show [current work](/files/0304_week2_monday_third_Unit5_practice1.xlsx). The part 2 students operate [works like this](/files/0304_week2_monday_third_Unit5_practice2.xlsx).
 
-
+[2024.3.7](/files/0307_week2_thursday_third_Unit4.pdf) mainly exhibits the production of slides.
