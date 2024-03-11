@@ -23,3 +23,5 @@ The Fundamental of Compute Science and Python language
 [2024.3.4](/files/0304_week2_monday_third_Unit5.pdf) shows the basic operation for Microsoft Excel 2016. The practice work is this [file](/files/0304_week2_monday_third_Unit5_practice.xlsx). The part 1 students show [current work](/files/0304_week2_monday_third_Unit5_practice1.xlsx). The part 2 students operate [works like this](/files/0304_week2_monday_third_Unit5_practice2.xlsx).
 
 [2024.3.7](/files/0307_week2_thursday_third_Unit4.pdf) mainly exhibits the production of slides. There are some examples for slides applications, [the bool computing](/files/bool_compute.pptx), [the charts](/files/chart.pptx), [the slides countdown](/files/slides_countdown.pptx) and [the floating](/files/floating.pptx).
+
+[2024.311](/files/0311_week3_monday_five_Unit6.pptx) introduces the python language.
