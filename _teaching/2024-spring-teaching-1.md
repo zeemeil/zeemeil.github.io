@@ -24,4 +24,6 @@ The Fundamental of Compute Science and Python language
 
 [2024.3.7](/files/0307_week2_thursday_third_Unit4.pdf) mainly exhibits the production of slides. There are some examples for slides applications, [the bool computing](/files/bool_compute.pptx), [the charts](/files/chart.pptx), [the slides countdown](/files/slides_countdown.pptx) and [the floating](/files/floating.pptx).
 
-[2024.311](/files/0311_week3_monday_five_Unit6.pptx) introduces the python language.
+[2024.3.11](/files/0311_week3_monday_five_Unit6.pptx) introduces the python language. 
+
+[2024.3.14](/files/0314_week3_thursday_five_Unit6.pptx) still shows python learning. The learning python tool web including: [the chinese python handbook](https://www.itbook.team/book/python/PYTHONJiChuJiaoCheng/PYTHONHuanJingDaJian.html), [the freshmen programming](https://www.runoob.com/python/python-tutorial.html).The guess number game is [below](/files/0311_week3_guess_number.py).
