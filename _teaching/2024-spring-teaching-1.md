@@ -26,4 +26,4 @@ The Fundamental of Compute Science and Python language
 
 [2024.3.11](/files/0311_week3_monday_five_Unit6.pptx) introduces the python language. 
 
-[2024.3.14](/files/0314_week3_thursday_five_Unit6.pptx) still shows python learning. The learning python tool web including: [the chinese python handbook](https://www.itbook.team/book/python/PYTHONJiChuJiaoCheng/PYTHONHuanJingDaJian.html), [the freshmen programming](https://www.runoob.com/python/python-tutorial.html).The guess number game is [below](/files/0311_week3_guess_number.py).
+[2024.3.14](/files/0314_week3_thursday_five_Unit6.pptx) still shows python learning. The learning python tool web including: [the chinese python handbook](https://www.itbook.team/book/python/PYTHONJiChuJiaoCheng/PYTHONHuanJingDaJian.html), [the freshmen programming](https://www.runoob.com/python3/python3-tutorial.html).The guess number game is [below](/files/0311_week3_guess_number.py).
