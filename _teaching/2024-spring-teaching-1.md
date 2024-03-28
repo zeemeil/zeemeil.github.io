@@ -26,6 +26,6 @@ The Fundamental of Compute Science and Python language
 
 [2024.3.11](/files/0311_week3_monday_five_Unit6.pptx) introduces the python language. 
 
-[2024.3.14](/files/0314_week3_thursday_five_Unit6.pptx) still shows python learning. The learning python tool web including: [the chinese python handbook](https://www.itbook.team/book/python/PYTHONJiChuJiaoCheng/PYTHONHuanJingDaJian.html), [the freshmen programming](https://www.runoob.com/python3/python3-tutorial.html).The guess number game is [below](/files/0311_week3_guess_number.py).
+[2024.3.14](/files/0314_week3_thursday_five_Unit6.pptx) still shows python learning. The learning python tool web including: [the chinese python handbook](https://www.itbook.team/book/python/PYTHONJiChuJiaoCheng/PYTHONHuanJingDaJian.html), [the freshmen programming](https://www.runoob.com/python3/python3-tutorial.html)
 
-[2024.3.28](/files/0328_week5_thursday_unit7.pptx) lesson contains the programs control construction. The main concepts aim to describe the sequence, branch and circuit construct, apply branch and circuit construct language. Be skillful of break in circuit and error process.
+[2024.3.28](/files/0328_week5_thursday_unit7.pptx) lesson contains the programs [control construction](/files/0328_week5_thursday_unit8.pptx). The main concepts aim to describe the sequence, branch and circuit construct, apply branch and circuit construct language. Be skillful of break in circuit and error process. .The guess number game is [below](/files/0311_week3_guess_number.py).
