@@ -1,0 +1,8 @@
+1. 编写一个 Python 程序，查找 1500 到 2700（含）之间可被 7 整除且为 5 的倍数的数字。
+count = 0
+for i in range(1500, 2701):
+    if (i % 7 == 0) and (i % 5 == 0):
+        print(i, end=', ')
+        count += 1
+print(count)
+

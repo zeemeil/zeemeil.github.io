@@ -1,0 +1,127 @@
+#1 从键盘上输入一批数据，对这些数据进行逆置，最后按照逆置后的结果输出
+b_list=input("请输入数据:")
+a_list=[]
+for i in b_list.split(','):
+  a_list.append(i)
+print("逆置前数据为:",a_list)
+n=len(a_list)
+for i in range(n//2):
+  a_list[i],a_list[n-i-1]=a_list[n-i-1],a_list[i]
+print("逆置后数据为:",a_list)
+
+#2 编写程序，求出1000以内的所有完数
+m=1000 
+for a in range(2,m+1):
+    s=0
+    L1=[]
+    for i in range(1,a):
+       if a%i==0: 
+           s+=i 
+           L1.append(i)
+    if s==a: 
+               print("%d  its factors are："%a,L1) 
+
+#3. 从键盘输入5个英文单词，输出其中以元音字母开头的单词
+str="AEIOUaeiou"
+a_list=[]
+for i in range(0,5):
+   word=input("请输入一个英文单词：")
+   a_list.append(word)
+print("输入的5个英文单词是：",a_list)
+print("首字母是元音的英文单词有：")
+for i in range(0,5):
+     for ch in str:
+          if a_list[i][0]==ch:
+             print(a_list[i])
+             break
+
+#4. 输入一段字符，统计其中单词的个数，单词之间用空格分隔
+str=input("请输入一串字符：")
+flag=0
+count=0
+
+for c in str:
+    if c==" ":
+         flag=0
+    else:
+         if flag==0:
+              flag=1
+              count=count+1
+print("共有%d个单词"%count)
+
+
+#5. 输入一行字符，分别统计出其中英文字母、空格、数字和其他字符的个数
+a_list = list(input('请输入一行字符：'))
+letter = []
+space = [] 
+number = []
+other = []
+ 
+for i in range(len(a_list)):
+    if ord(a_list[i]) in range(65, 91) or ord(a_list[i]) in range(97,123):
+        letter.append(a_list[i])
+    elif a_list[i] == ' ':
+         space.append(' ')
+    elif ord(a_list[i]) in range(48, 58):
+         number.append(a_list[i])
+    else:
+         other.append(a_list[i])
+  
+print('英文字母个数：%s' % len(letter))
+print('空格个数：%s' % len(space))
+print('数字个数：%s' % len(number))
+print('其他字符个数：%s' % len(other))
+
+
+#6. 大印字典
+a_dict={'a':1,'b':2,'c':3}
+b_dict={}
+for key in a_dict:
+    b_dict[a_dict[key]]=key
+print(b_dict)
+
+#7. 从键盘输入 10 个学生的成绩存储在列表中，求成绩最高者的序号和成绩。
+
+#8. 编写程序，生成包含 20 个元素的随机数列表，将前 10 个元素升序排序，后 10 个元素降序排序，并输出结果。
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+   
+
+
+
