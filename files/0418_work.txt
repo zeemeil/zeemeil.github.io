@@ -1,0 +1,101 @@
+def printHello():       #不带参数，没有返回值
+    print("Hello world！")
+
+
+
+def max(a,b):
+    if a>b:
+        return a
+    else:
+        return b
+
+
+def getMax(a,b,c):
+     if a>b:
+          max=a
+     else:
+          max =b
+     if(c>max):
+          max =c
+     return max
+
+a,b,c=eval(input("input a,b,c:"))
+n= getMax (a,b,c)
+print("max=",n)
+
+
+def swap(a,b):
+    a,b=b,a
+    print("a=",a,"b=",b)
+  
+x,y=eval(input("input x,y:"))
+swap(x,y)
+print("x=",x,"y=",y)
+
+
+
+def swap(a_list):
+    a_list[0],a_list[1]=a_list[1],a_list[0]
+    print("a_list[0]=",a_list[0],"a_list[1]=",a_list[1])
+  
+x_list=[3,5]
+swap(x_list)
+print("x_list[0]=",x_list[0],"x_list[1]=",x_list[1])
+
+
+def func(x, n = 2):
+    f = 1
+    for i in range(n):
+        f*=x
+        return f
+  
+print(func(5))       #函数调用时n传入默认参数
+print(func(5,3))     #函数调用时x和n均传入非默认参数
+
+
+
+def func(x, a_list = []):
+    a_list.append(x)
+    return a_list
+  
+print(func(1))
+print(func(2))
+print(func(3))
+
+
+
+def func(x, a_list = None):
+    if a_list==None:
+        a_list=[]
+    a_list.append(x)
+    return a_list
+  
+print(func(1))
+print(func(2))
+print(func(3))
+
+
+
+def func(a,b):
+    c=a**b
+    return c
+  
+print(func(a=2,b=3))        #使用关键字指定函数参数
+print(func(b=3,a=2))        #使用关键字指定函数参数
+
+
+
+
+def func(*para_t): 
+   print("可变长参数数量为:") 
+   print(len(para_t)) 
+   print("参数依次为:") 
+   for x in range(len(para_t)):     
+      print(para_t[x]);        	#访问可变长参数内容
+   
+func('a')           			#使用单个参数
+func(1,2,3,4)        			#使用多个参数
+
+
+
+
