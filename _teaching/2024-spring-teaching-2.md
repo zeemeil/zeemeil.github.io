@@ -18,4 +18,4 @@ Python is a high-level, general-purpose programming language. Its design philoso
 [2024.04.11](/files/0411_week7_thurday_unit8_component_datatype.pptx) lesson describes the data type, including tuple, list and dictionary. [Practices](/files/0411_work.txt)
 
 
-[2024.04.11](/files/0418_week8_thurday_unit8_function.pptx) lesson describes the data type, including tuple, list and dictionary. [Practices](/files/0418_work.txt)
+[2024.04.18](/files/0418_week8_thurday_unit8_function.pptx) lesson describes the data type, including tuple, list and dictionary. [Practices](/files/0418_work.txt)
