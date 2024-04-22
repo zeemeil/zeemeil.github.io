@@ -1,15 +1,14 @@
+1. 打印helloworld
 def printHello():       #不带参数，没有返回值
     print("Hello world！")
 
-
-
+2. 求最大
 def max(a,b):
     if a>b:
         return a
     else:
         return b
-
-
+3. 求最大
 def getMax(a,b,c):
      if a>b:
           max=a
@@ -23,7 +22,7 @@ a,b,c=eval(input("input a,b,c:"))
 n= getMax (a,b,c)
 print("max=",n)
 
-
+4. 交换两个数
 def swap(a,b):
     a,b=b,a
     print("a=",a,"b=",b)
@@ -32,8 +31,7 @@ x,y=eval(input("input x,y:"))
 swap(x,y)
 print("x=",x,"y=",y)
 
-
-
+5. 交换列表元素的位置
 def swap(a_list):
     a_list[0],a_list[1]=a_list[1],a_list[0]
     print("a_list[0]=",a_list[0],"a_list[1]=",a_list[1])
@@ -42,7 +40,7 @@ x_list=[3,5]
 swap(x_list)
 print("x_list[0]=",x_list[0],"x_list[1]=",x_list[1])
 
-
+6. 函数固定参数
 def func(x, n = 2):
     f = 1
     for i in range(n):
@@ -52,8 +50,7 @@ def func(x, n = 2):
 print(func(5))       #函数调用时n传入默认参数
 print(func(5,3))     #函数调用时x和n均传入非默认参数
 
-
-
+7. 函数列表追加
 def func(x, a_list = []):
     a_list.append(x)
     return a_list
@@ -62,8 +59,7 @@ print(func(1))
 print(func(2))
 print(func(3))
 
-
-
+8. 函数列表追加2
 def func(x, a_list = None):
     if a_list==None:
         a_list=[]
@@ -74,8 +70,7 @@ print(func(1))
 print(func(2))
 print(func(3))
 
-
-
+8. 函数求幂
 def func(a,b):
     c=a**b
     return c
@@ -83,9 +78,7 @@ def func(a,b):
 print(func(a=2,b=3))        #使用关键字指定函数参数
 print(func(b=3,a=2))        #使用关键字指定函数参数
 
-
-
-
+9. 函数求参数
 def func(*para_t): 
    print("可变长参数数量为:") 
    print(len(para_t)) 
@@ -96,6 +89,46 @@ def func(*para_t):
 func('a')           			#使用单个参数
 func(1,2,3,4)        			#使用多个参数
 
+10. 计算列表中元素最大的数
+def getMaxMin( x ):
+    max = x[0]
+    min = x[0]
+    for i in range( 0, len(x)):
+        if max<x[i]: 
+            max = x[i]
+        if min>x[i]:
+            min = x[i]
+    return (max,min)
 
+a_list = [-1,28,-15,5, 10 ]          #测试数据为列表类型
+x,y = getMaxMin( a_list )
+print( "a_list=", a_list)
+print( "最大元素=",x, "最小元素=", y)
 
+string = "Hello"                #测试数据为字符串
+x,y = getMaxMin( string )
+print( "string=", string)
+print( "最大元素=",x, "最小元素=", y)  
+
+11. 判断是否是素数
+def isprime(n):
+     for i in range(2,n):
+          if(n%i==0):
+              return 0
+     return 1
+
+m=int(input("请输入一个整数:"))
+flag=isprime(m)
+if(flag==1):
+         print("%d是素数"%m)
+else:
+         print("%d不是素数"%m)
+
+12. 求多个数之和
+def func(x,*para,y = 1):    #默认参数要放到最后
+    print(x)
+    print(para)
+    print(y)
+    
+func(1,2,3,4,5,6,7,8,9,10,y=100)
 

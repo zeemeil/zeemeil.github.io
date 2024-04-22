@@ -1,0 +1,59 @@
+1. 
+testfile = open('the_six_wans.txt','r')
+word = testfile.read()
+ls = [0]*26
+for i in word:
+    if i.isalpha():
+        x = i.lower()
+        ls[ord(x) - 97] += 1
+print(ls)
+testfile.close()
+
+2. testfile = open('the_six_wans.txt','r')
+word = testfile.read()
+dic = {}
+for i in word:
+    if i.isalpha():
+        x = i.lower()
+        if x in dic:
+            dic[x] += 1
+        else:
+            dic[x] = 1
+print("本文档一共出现了%d个字母"%len(dic),"统计如下：")
+# print(dic)
+print(sorted(dic.items()))
+
+testfile.close()
+
+3. testfile = open('the_six_wans.txt','r')
+word = testfile.read()
+dic = {}
+for i in word:
+    if i.isalpha():
+        x = i.lower()
+        if x in dic:
+            dic[x] += 1
+        else:
+            dic[x] = 1
+print("本文档一共出现了%d个字母"%len(dic),"统计如下：")
+# print(dic)
+print(sorted(dic.items()))
+
+testfile.close()
+
+4. 
+testfile = open('the_six_wans.txt','r')
+worddic = {}
+dic = {}
+for i in word:
+	sword = line.strip().split()
+	for word in sword:
+		if word in worddic:
+			worddic[word] += 1
+		else:
+			worddic[word] = 1
+print("本文档出现了%d次不同的单词"%len(worddic),"统计如下：")
+print(worddic)
+testfile.close()
+
+

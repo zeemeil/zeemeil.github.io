@@ -73,14 +73,16 @@ print('数字个数：%s' % len(number))
 print('其他字符个数：%s' % len(other))
 
 
-#6. 大印字典
+#6. 打印字典
 a_dict={'a':1,'b':2,'c':3}
 b_dict={}
 for key in a_dict:
     b_dict[a_dict[key]]=key
 print(b_dict)
 
+
 #7. 从键盘输入 10 个学生的成绩存储在列表中，求成绩最高者的序号和成绩。
+
 
 #8. 编写程序，生成包含 20 个元素的随机数列表，将前 10 个元素升序排序，后 10 个元素降序排序，并输出结果。
 
