@@ -27,3 +27,4 @@ Python is a high-level, general-purpose programming language. Its design philoso
 [2024.04.25](/files/0425_week9_thursday_unit_class.pptx) lesson describes the Object Oriented Programming. [Practices1](/files/0425_work_class.txt). [The standard](/files/0425_week9_thursday_unit9_package.pptx) show random, turtle and time package. Pandas [package](https://www.pypandas.cn/) for [reading](/files/0425_package.txt) $xlsx$ file. [Homework](/files/0425_homework.docx)
 
 
+[2024.04.29 Exam](/files/2024_营销3班4班python机试.docx)
