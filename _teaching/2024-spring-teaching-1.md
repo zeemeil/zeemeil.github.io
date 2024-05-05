@@ -9,7 +9,7 @@ location: "Maoming City, China"
 ---
 
  Computer science is the study of computation, information, and the ways we can apply computational thinking to solve problems. 
- 
+<!--  
  It encompasses a wide range of topics from theoretical foundations like algorithms and data structures to practical applications like software engineering. We will cover some basic concepts in computer science like binary numbers, algorithms, abstraction, and more while also providing a gentle introduction to Python. Python is a very popular, general-purpose programming language used for everything from web development and scientific computing to AI and data analysis. We will go over Python syntax, work with some sample programs, and by the end of the lesson [students](/files/name_list.xls) should have a solid grasp of fundamentals that will serve as a foundation as we delve deeper into computational thinking approaches and programming techniques later in the course. 
 
 The Fundamental of Compute Science and Python language
@@ -28,4 +28,4 @@ The Fundamental of Compute Science and Python language
 
 [2024.3.14](/files/0314_week3_thursday_five_Unit6.pptx) still shows python learning. The learning python tool web including: [the chinese python handbook](https://www.itbook.team/book/python/PYTHONJiChuJiaoCheng/PYTHONHuanJingDaJian.html), [the freshmen programming](https://www.runoob.com/python3/python3-tutorial.html)
 
-[2024.3.28](/files/0328_week5_thursday_unit7.pptx) lesson contains the programs [control construction](/files/0328_week5_thursday_unit8.pptx). The main concepts aim to describe the sequence, branch and circuit construct, apply branch and circuit construct language. Be skillful of break in circuit and error process. .The guess number game is [below](/files/0311_week3_guess_number.py).
+[2024.3.28](/files/0328_week5_thursday_unit7.pptx) lesson contains the programs [control construction](/files/0328_week5_thursday_unit8.pptx). The main concepts aim to describe the sequence, branch and circuit construct, apply branch and circuit construct language. Be skillful of break in circuit and error process. .The guess number game is [below](/files/0311_week3_guess_number.py). -->
