@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Computer Foundations and Artificial Intelligence II"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-spring-teaching-2
