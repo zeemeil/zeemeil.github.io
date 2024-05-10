@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+<div style='display: none'>
 [pdf](/files/lkcv.pdf)
+</div>
 
 Education
 ======
