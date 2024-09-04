@@ -12,3 +12,4 @@ Software engineering is a branch of engineering focused on the design, developme
 
 [The slides](/files/0902_soterengineering_chapter1.pdf) for a first chapter in Sep 02. 
 
+
