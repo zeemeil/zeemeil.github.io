@@ -16,3 +16,7 @@ In an academic context, "Principles of Object-Oriented Programming and Practical
 [The slides](/files/0903-java_chapter01.pdf) for a first chapter in Sep 03. 
 
 [The slides](/files/0905-java_chapter02.pdf) involves data types, operator and expression for a second chapter in Sep 05. Add an online compilation [tool](https://www.bejson.com/runcode/java/).
+
+[The slides](/files/0912_java_dataArray.pdf) for the data array and the string on Sep 12.
+
+[The slides](/files/0912_java_dataArray.pdf) for the class and objects begin from Sep 12.
