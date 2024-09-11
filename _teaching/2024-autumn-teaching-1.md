@@ -14,4 +14,6 @@ Software engineering is a branch of engineering focused on the design, developme
 
 [The slides](/files/0905_SE_chapter02.pdf) for a second chapter on Sep 05.
 
-The slides for the [feasibility analysis](/files/0909_SE_kexingxing.pdf) and the [structured analysis](/files/0909_SE_require_structure.pdf) on Sep 09.
+The slides for the [feasibility analysis](/files/0909_SE_kexingxing.pdf) with a FA [homework](/files/0905_SE_report_modul.docx) on Sep 05.
+
+The slides for [structured analysis](/files/0909_SE_require_structure.pdf) on Sep 12.
