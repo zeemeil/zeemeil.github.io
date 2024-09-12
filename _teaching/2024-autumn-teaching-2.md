@@ -19,4 +19,4 @@ In an academic context, "Principles of Object-Oriented Programming and Practical
 
 [The slides](/files/0912_java_dataArray.pdf) for the data array and the string on Sep 12.
 
-[The slides](/files/0912_java_dataArray.pdf) for the class and objects begin from Sep 12.
+[The slides](/files/0912_java_class_object.pdf) for the class and objects begin from Sep 12.
