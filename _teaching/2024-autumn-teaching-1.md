@@ -16,8 +16,10 @@ Software engineering is a branch of engineering focused on the design, developme
 
 The slides for the [feasibility analysis](/files/0909_SE_kexingxing.pdf) with a FA [homework](/files/0905_SE_report_modul.docx) on Sep 05.
 
-The slides for the [structured analysis](/files/09012_SE_require_structure.pdf) on Sep 12. Add a data flow model [example](/files/0914_SE_dataflowEx.ppt).
+The slides for the [structured analysis](/files/0912_SE_require_structure.pdf) on Sep 12. Add a data flow model [example](/files/0914_SE_dataflowEx.ppt).
 
 The slides for the [software design](/files/0914_SE_softwareDesign.pdf) on Sep 14-26 before the mid-autumn festival.
 
 [Object orient and UML](/files/0926_OO_UML.pdf) on Sep 26.
+
+[Experiment 1](/files/0927_Experiment_engineeringDrawing.pdf) for drawing engingeering image on Sep 27, with the module of [experiment report](/files/0905_SE_report_modul.docx).

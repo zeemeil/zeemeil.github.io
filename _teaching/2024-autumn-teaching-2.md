@@ -22,3 +22,5 @@ In an academic context, "Principles of Object-Oriented Programming and Practical
 [The slides](/files/0912_java_class_object.pdf) for the class and objects begin from Sep 12 to 26.
 
 [Java inheritance](/files/0926_JAVA_inheritance.pdf) on Sep 26.
+
+Java programming [homework](/files/0905_SE_report_modul.docx) is on page 129 of the textbook. Please submit it in the first lesson after seven-day National Day holiday.
