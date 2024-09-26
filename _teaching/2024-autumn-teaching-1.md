@@ -18,4 +18,6 @@ The slides for the [feasibility analysis](/files/0909_SE_kexingxing.pdf) with a 
 
 The slides for the [structured analysis](/files/09012_SE_require_structure.pdf) on Sep 12. Add a data flow model [example](/files/0914_SE_dataflowEx.ppt).
 
-The slides for the [software design](/files/0914_SE_softwareDesign.pdf) on Sep 14 before the mid-autumn festival.
+The slides for the [software design](/files/0914_SE_softwareDesign.pdf) on Sep 14-26 before the mid-autumn festival.
+
+[Object orient and UML](/files/0926_OO_UML.pdf) on Sep 26.
