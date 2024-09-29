@@ -20,6 +20,6 @@ The slides for the [structured analysis](/files/0912_SE_require_structure.pdf) o
 
 The slides for the [software design](/files/0914_SE_softwareDesign.pdf) on Sep 14-26 before the mid-autumn festival.
 
-[Object orient and UML](/files/0926_OO_UML.pdf) on Sep 26.
+[Object orient and UML](/files/0929_SE_OO_UML.pdf) on Sep 29.
 
-[Experiment 1](/files/0927_Experiment_engineeringDrawing.pdf) for drawing engingeering image on Sep 27, with the module of [experiment report](/files/0905_SE_report_modul.docx).
+[Experiment 1](/files/0927_Experiment_engineeringDrawing.pdf) for drawing engineering image on Sep 27, with the module of [experiment report](/files/0929_SE_report_modul.docx).
