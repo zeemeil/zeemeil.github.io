@@ -23,3 +23,5 @@ The slides for the [software design](/files/0914_SE_softwareDesign.pdf) on Sep 1
 [Object orient and UML](/files/0929_SE_OO_UML.pdf), [object orient analysis](/files/1010_SE_OOA.pdf) from Sep 29 to Oct 10.
 
 [Experiment 1](/files/0927_Experiment_engineeringDrawing.pdf) for drawing engineering image on Sep 27, with the module of [experiment report](/files/0929_SE_report_modul.docx).
+
+[Architecture Design](/files/1012_SE_construction.pdf) and [Object orient design](/files/1012_SE_OO_design.pdf) on Oct 12.
