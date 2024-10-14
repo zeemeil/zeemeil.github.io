@@ -25,4 +25,8 @@ In an academic context, "Principles of Object-Oriented Programming and Practical
 
 Java programming [homework](/files/0905_SE_report_modul.docx) is on page 129 of the textbook. Please submit it in the first lesson after seven-day National Day holiday.
 
-[Java polymorphism](/files/1008_JAVA_%20Polymorphism.pdf) on Oct 8.
+[Java polymorphism](/files/1015_JAVA_Polymorphism.pdf) on Oct 8 and 15. [CODE](/files/1015_JAVA_code.zip)
+
+[Commonly used tools class](/files/1015_JAVA_tool_class.pdf) on next class.
+
+
