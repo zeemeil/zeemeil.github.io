@@ -27,3 +27,5 @@ The slides for the [software design](/files/0914_SE_softwareDesign.pdf) on Sep 1
 [Architecture Design](/files/1012_SE_construction.pdf) and [Object orient design](/files/1012_SE_OO_design.pdf) on Oct 12.
 
 [Software implementation](/files/1014_SE_software_Implementation.pdf) on Oct 14.
+
+Add [software testing](/files/1021_SE_TEST.pdf)
