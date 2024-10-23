@@ -30,3 +30,5 @@ Java programming [homework](/files/0905_SE_report_modul.docx) is on page 129 of 
 [Commonly used tools class](/files/1015_JAVA_tool_class.pdf) on next class.
 
 Add [Java set](/files/1022_JAVA_set.pdf)
+
+Add [Java exception](/files/1024_JAVA_Except.pdf)
