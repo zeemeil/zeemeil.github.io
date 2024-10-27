@@ -29,3 +29,5 @@ The slides for the [software design](/files/0914_SE_softwareDesign.pdf) on Sep 1
 [Software implementation](/files/1014_SE_software_Implementation.pdf) on Oct 14.
 
 Add [software testing](/files/1021_SE_TEST.pdf)
+
+Add [SE maintain](/files/1028_SE_maintain.pdf), [process](/files/1028_SE_process.pdf) and [management](/files/1028_SE_management.pdf).
