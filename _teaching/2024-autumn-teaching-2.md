@@ -39,6 +39,6 @@ Add Java [GUI](/files/1105_Java_GUI.pdf)
 
 Add Java [Internet programming](/files/1107_Java_InternetPromgram.pdf)
 
-[review](/files/1112_java_review.pdf)
+[review](/files/1112_java_conclusion.pdf)
 
 [practice](/files/1112_java_practice.pdf)
