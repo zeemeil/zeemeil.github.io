@@ -10,26 +10,30 @@ location: "Maoming City, China"
 
 Software engineering is a branch of engineering focused on the design, development, maintenance, and management of software systems. It combines principles from computer science, engineering, and project management to create reliable, efficient, and scalable software applications. The reference materials are [as follows](T[he reference materials are as follows](https://github.com/QSCTech/zju-icicles/blob/master/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E6%95%99%E6%9D%90/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%EF%BC%9A%E5%AE%9E%E8%B7%B5%E8%80%85%E7%9A%84%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%EF%BC%88%E7%AC%AC7%E7%89%88%EF%BC%89.pdf)).
 
-[The slides](/files/0902_soterengineering_chapter1.pdf) for a first chapter on Sep 02. 
+<!-- <div> -->
 
-[The slides](/files/0905_SE_chapter02.pdf) for a second chapter on Sep 05.
+[The slides](/files/2024_2_SE/0902_soterengineering_chapter1.pdf) for a first chapter on Sep 02. 
 
-The slides for the [feasibility analysis](/files/0909_SE_kexingxing.pdf) with a FA [homework](/files/0905_SE_report_modul.docx) on Sep 05.
+[The slides](/files/2024_2_SE/0905_SE_chapter02.pdf) for a second chapter on Sep 05.
 
-The slides for the [structured analysis](/files/0912_SE_require_structure.pdf) on Sep 12. Add a data flow model [example](/files/0914_SE_dataflowEx.ppt).
+The slides for the [feasibility analysis](/files/2024_2_SE/0909_SE_kexingxing.pdf) with a FA [homework](/files/2024_2_SE/0905_SE_report_modul.docx) on Sep 05.
 
-The slides for the [software design](/files/0914_SE_softwareDesign.pdf) on Sep 14-26 before the mid-autumn festival.
+The slides for the [structured analysis](/files/2024_2_SE/0912_SE_require_structure.pdf) on Sep 12. Add a data flow model [example](/files/2024_2_SE/0914_SE_dataflowEx.ppt).
 
-[Object orient and UML](/files/0929_SE_OO_UML.pdf), [object orient analysis](/files/1010_SE_OOA.pdf) from Sep 29 to Oct 10.
+The slides for the [software design](/files/2024_2_SE/0914_SE_softwareDesign.pdf) on Sep 14-26 before the mid-autumn festival.
 
-[Experiment 1](/files/0927_Experiment_engineeringDrawing.pdf) for drawing engineering image on Sep 27, with the module of [experiment report](/files/0929_SE_report_modul.docx).
+[Object orient and UML](/files/2024_2_SE/0929_SE_OO_UML.pdf), [object orient analysis](/files/2024_2_SE/1010_SE_OOA.pdf) from Sep 29 to Oct 10.
 
-[Architecture Design](/files/1012_SE_construction.pdf) and [Object orient design](/files/1012_SE_OO_design.pdf) on Oct 12.
+[Experiment 1](/files/2024_2_SE/0927_Experiment_engineeringDrawing.pdf) for drawing engineering image on Sep 27, with the module of [experiment report](/files/2024_2_SE/0929_SE_report_modul.docx).
 
-[Software implementation](/files/1014_SE_software_Implementation.pdf) on Oct 14.
+[Architecture Design](/files/2024_2_SE/1012_SE_construction.pdf) and [Object orient design](/files/2024_2_SE/1012_SE_OO_design.pdf) on Oct 12.
 
-Add [software testing](/files/1021_SE_TEST.pdf)
+[Software implementation](/files/2024_2_SE/1014_SE_software_Implementation.pdf) on Oct 14.
 
-Add [SE maintain](/files/1028_SE_maintain.pdf), [process](/files/1028_SE_process.pdf) and [management](/files/1028_SE_management.pdf).
+Add [software testing](/files/2024_2_SE/1021_SE_TEST.pdf)
 
-Add presentation for [Internet Engineering](/files/1210_Internet.pptx)
+Add [SE maintain](/files/2024_2_SE/1028_SE_maintain.pdf), [process](/files/2024_2_SE/1028_SE_process.pdf) and [management](/files/2024_2_SE/1028_SE_management.pdf).
+
+Add presentation for [Internet Engineering](/files/2024_2_SE/1210_Internet.pptx)
+
+<!-- </div> -->
