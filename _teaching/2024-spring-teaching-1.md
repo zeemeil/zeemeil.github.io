@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Computer Foundations and Artificial Intelligence I"
 collection: teaching
 type: "Undergraduate course"
@@ -32,4 +32,4 @@ The Fundamental of Compute Science and Python language
 
 [2024.3.28](/files/2024_1_CFAI/0328_week5_thursday_unit7.pptx) lesson contains the programs [control construction](/files/2024_1_CFAI/0328_week5_thursday_unit8.pptx). The main concepts aim to describe the sequence, branch and circuit construct, apply branch and circuit construct language. Be skillful of break in circuit and error process. .The guess number game is [below](/files/2024_1_CFAI/0311_week3_guess_number.py). 
 
-</div>
+</div> -->
