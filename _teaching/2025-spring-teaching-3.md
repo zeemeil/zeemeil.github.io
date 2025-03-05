@@ -12,4 +12,4 @@ The data structure is a data organization and storage format that is usually cho
 
 [The slides](/files/2025_1_DS/0226_DS_chapter1.pptx) for basic overview and [algorithm analysis](/files/2025_1_DS/0226_DS_chapter_algorithmAnalysis.pdf) at Feb 26 and 27.
 
-[This slides](/files/2025_1_DS/0227_DS_Linear.pptx) for linear list including sequence list and queue list, [this slides](/files/2025_1_DS/0227_DS_LinkedList.ppt) for linked list.
+[This slides](/files/2025_1_DS/0227_DS_Linear.pptx) for linear list including sequence list and queue list, [this slides](/files/2025_1_DS/0305_DS_Linear2.ppt) for linked list.
