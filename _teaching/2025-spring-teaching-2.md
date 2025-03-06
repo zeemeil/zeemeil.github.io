@@ -14,7 +14,7 @@ The [slides](/files/2025_1_SE/0224_SE_chapter1.ppt) for a first chapter on Feb 2
 
 [The slides](/files/2025_1_SE/0303_SE_chapter1_seModel.pptx) for a second chapter on March 03, including software procedure.
 
-The slides for the [feasibility analysis](/files/2025_1_SE/0306_SE_feasibility.pptx) with a FA [homework](/files/2024_2_SE/0306_SE_report_modul.docx) on March 06.
+The slides for the [feasibility analysis](/files/2025_1_SE/0306_SE_feasibility.pptx) with a FA [homework](/files/2025_1_SE/0306_SE_report_modul.docx) on March 06.
 
 The slides about the [requirement analysis](/files/2025_1_SE/0310_SE_chapter3_requirement.pptx) on March 10.
 
