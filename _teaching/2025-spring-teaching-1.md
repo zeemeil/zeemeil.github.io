@@ -15,4 +15,6 @@ a modern approach, fourth edition](http://lib.ysu.am/disciplines_bk/efdd4d1d4c20
 
 [The slides](/files/2025_1_AI/0304_AI_chapter2_knowledge.pptx) for knowledge image at March 4.
 
-[The slides](/files/2025_1_AI/0311_AI_Deductive%20Reasoning.pptx) about certain principles at March 11.
+[The slides](/files/2025_1_AI/0311_AI_DeductiveReasoning.pptx) about certain principles at March 11.
+
+[The slides](/files/2025_1_AI/0318_AI_uncertaintyReasoning.ppt) on uncertain reasoning at March 18.
