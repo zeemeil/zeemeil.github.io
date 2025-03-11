@@ -14,5 +14,7 @@ The data structure is a data organization and storage format that is usually cho
 
 [This slides](/files/2025_1_DS/0227_DS_Linear.pptx) for linear list including sequence list and queue list, [this slides](/files/2025_1_DS/0305_DS_Linear2.ppt) for linked list. The textbook problems code [1](/files/2025_1_DS/code/problem2_1.c), [2](/files/2025_1_DS/code/problem2_2.c), [3](/files/2025_1_DS/code/problem2_3.c), [4](/files/2025_1_DS/code/problem2_4.c), [5](/files/2025_1_DS/code/problem2_5.c), [6](/files/2025_1_DS/code/problem2_6.c), [7](/files/2025_1_DS/code/problem2_7.c), [8](/files/2025_1_DS/code/problem2_8.c), [9](/files/2025_1_DS/code/problem2_9.c) and [10](/files/2025_1_DS/code/problem2_10.c). A online C language demonstrates [platform](https://www.jyshare.com/compile/11/).
 
-[This slides](/files/2025_1_DS/0305_DS_StackQueue.ppt) for stack and queue on March 6.
+[This slides](/files/2025_1_DS/0305_DS_StackQueue.ppt) for stack and queue on March 6, 12 and 13.
+
+[The slides](/files/2025_1_DS/0312_DS_StringArrayGList.ppt) for string, array and generalized list on March 12.
  
