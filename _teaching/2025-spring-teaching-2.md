@@ -16,7 +16,9 @@ The [slides](/files/2025_1_SE/0224_SE_chapter1.ppt) for a first chapter on Feb 2
 
 The slides for the [feasibility analysis](/files/2025_1_SE/0306_SE_feasibility.pptx) with a FA [homework](/files/2025_1_SE/0306_SE_report_modul.docx) on March 06.
 
-The slides about the [requirement analysis](/files/2025_1_SE/0310_SE_chapter3_requirement.pptx) on March 10.
+The slides about the [requirement analysis](/files/2025_1_SE/0310_SE_chapter3_requirement.pptx) with [a practice](/files/2025_1_SE/0310_SE_Practice.ppt) on March 10 and 17.
 
-The slides about [formal verification](/files/2025_1_SE/0317_SE_chapter4_.pptx) at March 17
+The slides about [formal verification](/files/2025_1_SE/0317_SE_chapter4_.pptx) at March 17.
+
+The slides on [structure description](/files/2025_1_SE/0320_SE_chapter5_.pptx) at March 20.
 
