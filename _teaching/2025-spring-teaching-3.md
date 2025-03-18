@@ -16,5 +16,8 @@ The data structure is a data organization and storage format that is usually cho
 
 [This slides](/files/2025_1_DS/0305_DS_StackQueue.ppt) for stack and queue on March 6, 12 and 13.
 
-[The slides](/files/2025_1_DS/0312_DS_StringArrayGList.ppt) for string, array and generalized list on March 12.
+[The slides](/files/2025_1_DS/0312_DS_StringArrayGList.pptx) for string, array and generalized list on March 12.
  
+
+
+
