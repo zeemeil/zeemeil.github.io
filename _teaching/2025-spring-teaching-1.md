@@ -17,7 +17,7 @@ a modern approach, fourth edition](http://lib.ysu.am/disciplines_bk/efdd4d1d4c20
 
 [The slides](/files/2025_1_AI/0311_AI_DeductiveReasoning.pptx) about certain principles at March 11 and 18 am.
 
-The experiment [code](/files/2025_1_AI/code/experiment0319_2.py) and input [file](/files/2025_1_AI/code/input1.txt) at March 19 pm.
+The experiment [code](/files/2025_1_AI/code/experiment0319_2.py) and input [file](/files/2025_1_AI/code/input1.txt) at March 19 pm. Please finish the [experiment report](/files/2025_1_AI/0319_AI_experimentReport1.docx) before March 26.
 
 [The slides](/files/2025_1_AI/0318_AI_uncertaintyReasoning.ppt) on uncertain reasoning at March 18 and 20.
 
