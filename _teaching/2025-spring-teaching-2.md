@@ -20,5 +20,7 @@ The slides about the [requirement analysis](/files/2025_1_SE/0310_SE_chapter3_re
 
 The slides about [formal verification](/files/2025_1_SE/0317_SE_chapter4_.pptx) at March 17.
 
-The slides on [structure description](/files/2025_1_SE/0320_SE_chapter5_.pptx) at March 20.
+The slides on [structure description](/files/2025_1_SE/0320_SE_chapter5_.pptx) at March 20 and 24.
+
+The slides on [detail designation](/files/2025_1_SE/0324_SE_chapter6.pptx) at March 24.
 
