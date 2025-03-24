@@ -22,5 +22,7 @@ The experiment [code](/files/2025_1_AI/code/experiment0319_2.py) and input [file
 [The slides](/files/2025_1_AI/0318_AI_uncertaintyReasoning.ppt) on uncertain reasoning at March 18 and 20.
 
 
-[The slides](/files/2025_1_AI/0320_AI_Search.ppt) for searching strategy on March 24.
+[The slides](/files/2025_1_AI/0320_AI_Search.ppt) for searching strategy on March 25.
+
+[The slides](/files/2025_1_AI/0401_AI_GA.ppt) for genetic algorithm at April 1 am.
 
