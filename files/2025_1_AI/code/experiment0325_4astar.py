@@ -1,86 +1,101 @@
-# State space tree node
-class Node:
-    def __init__(self, mat, x, y, level, parent):
-        self.parent = parent
-        self.mat = mat
-        self.x = x
-        self.y = y
-        self.cost = float('inf')
-        self.level = level
+import heapq
 
-# Function to print N x N matrix
-def print_matrix(mat):
-    for row in mat:
-        print(' '.join(map(str, row)))
+def heuristic(state):
+    goal_pos = {1: (0, 0), 2: (0, 1), 3: (0, 2),
+                4: (1, 0), 5: (1, 1), 6: (1, 2),
+                7: (2, 0), 8: (2, 1), 0: (2, 2)}
+    distance = 0
+    for idx in range(9):
+        num = state[idx]
+        if num == 0:
+            continue
+        x, y = idx // 3, idx % 3
+        goal_x, goal_y = goal_pos[num]
+        distance += abs(x - goal_x) + abs(y - goal_y)
+    return distance
 
-# Bottom, left, top, right movement
-row = [1, 0, -1, 0]
-col = [0, -1, 0, 1]
+def get_neighbors(state):
+    neighbors = []
+    i = state.index(0)
+    row, col = i // 3, i % 3
 
-# Function to calculate misplaced tiles
-def calculate_cost(initial, final):
-    count = 0
-    for i in range(3):
-        for j in range(3):
-            if initial[i][j] != 0 and initial[i][j] != final[i][j]:
-                count += 1
-    return count
+    # 上移
+    if row > 0:
+        new_i = i - 3
+        new_state = list(state)
+        new_state[i], new_state[new_i] = new_state[new_i], new_state[i]
+        neighbors.append(tuple(new_state))
+    
+    # 下移
+    if row < 2:
+        new_i = i + 3
+        new_state = list(state)
+        new_state[i], new_state[new_i] = new_state[new_i], new_state[i]
+        neighbors.append(tuple(new_state))
+    
+    # 左移
+    if col > 0:
+        new_i = i - 1
+        new_state = list(state)
+        new_state[i], new_state[new_i] = new_state[new_i], new_state[i]
+        neighbors.append(tuple(new_state))
+    
+    # 右移
+    if col < 2:
+        new_i = i + 1
+        new_state = list(state)
+        new_state[i], new_state[new_i] = new_state[new_i], new_state[i]
+        neighbors.append(tuple(new_state))
+    
+    return neighbors
 
-# Function to check if coordinates are valid
-def is_safe(x, y):
-    return 0 <= x < 3 and 0 <= y < 3
+def astar(start, goal):
+    open_heap = []
+    heapq.heappush(open_heap, (heuristic(start), 0, start))
+    came_from = {}
+    g_score = {start: 0}
+    closed = set()
 
-# Print path from root node to destination node
-def print_path(root):
-    if root is None:
-        return
-    print_path(root.parent)
-    print_matrix(root.mat)
-    print()
+    while open_heap:
+        current_f, current_g, current_state = heapq.heappop(open_heap)
 
-# Function to solve the 8-puzzle using Branch and Bound
-def solve(initial, x, y, final):
-    pq = []
-    root = Node(initial, x, y, 0, None)
-    root.cost = calculate_cost(initial, final)
-    pq.append(root)
+        if current_state == goal:
+            # 重构路径
+            path = []
+            while current_state in came_from:
+                path.append(current_state)
+                current_state = came_from[current_state]
+            path.append(start)
+            return path[::-1]  # 反转得到从起点到目标的路径
 
-    while pq:
-        min_node = min(pq, key=lambda n: n.cost + n.level)
-        pq.remove(min_node)
+        if current_state in closed:
+            continue
+        closed.add(current_state)
 
-        # If final state is reached, print the solution path
-        if min_node.cost == 0:
-            print_path(min_node)
-            return
+        for neighbor in get_neighbors(current_state):
+            tentative_g = current_g + 1
+            if neighbor not in g_score or tentative_g < g_score.get(neighbor, float('inf')):
+                came_from[neighbor] = current_state
+                g_score[neighbor] = tentative_g
+                f = tentative_g + heuristic(neighbor)
+                heapq.heappush(open_heap, (f, tentative_g, neighbor))
 
-        # Generate all possible child nodes
-        for i in range(4):
-            new_x, new_y = min_node.x + row[i], min_node.y + col[i]
-            if is_safe(new_x, new_y):
-                new_mat = [row[:] for row in min_node.mat]
-                new_mat[min_node.x][min_node.y], new_mat[new_x][new_y] = new_mat[new_x][new_y], new_mat[min_node.x][min_node.y]
-                child = Node(new_mat, new_x, new_y, min_node.level + 1, min_node)
-                child.cost = calculate_cost(child.mat, final)
-                pq.append(child)
+    return None  # 无解
 
-# Driver Code
-if __name__ == '__main__':
-    # Initial configuration
-    initial = [
-        [1, 0, 2],
-        [3, 4, 5],
-        [6, 7, 8]
-    ]
+if __name__ == "__main__":
+    # 示例初始状态和目标状态
+    start_state = (2, 8, 3, 1, 6, 4, 0, 7, 5)
+    goal_state = (1, 2, 3, 8, 0, 4, 7, 6, 5)
 
-    # Solvable Final configuration
-    final = [
-        [0, 1, 2],
-        [3, 4, 5],
-        [6, 7, 8]
-    ]
+    path = astar(start_state, goal_state)
 
-    # Blank tile coordinates in initial configuration
-    x, y = 0, 1
-
-    solve(initial, x, y, final)
+    if path:
+        print(f"找到解，路径长度：{len(path)-1}")
+        print("路径步骤：")
+        for idx, state in enumerate(path):
+            print(f"步骤 {idx}:")
+            for i in range(3):
+                print(state[i*3 : (i+1)*3])
+            print()
+    else:
+        print("无解")
