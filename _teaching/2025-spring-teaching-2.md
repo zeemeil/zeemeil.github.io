@@ -22,6 +22,6 @@ The slides about [formal verification](/files/2025_1_SE/0317_SE_chapter4_.pptx) 
 
 The slides on [structure description](/files/2025_1_SE/0320_SE_chapter5_.pptx) at March 20, 24 and 31.
 
-The slides on [detail designation](/files/2025_1_SE/0324_SE_chapter6.pptx) at March 31 and April 3.
+The slides on [detail designation](/files/2025_1_SE/0331_SE_chapter6.pptx) at March 31 and April 3.
 
 The slides on [execution](/files/2025_1_SE/0407_SE_chapter7Exection.pptx) at April 7 pm.

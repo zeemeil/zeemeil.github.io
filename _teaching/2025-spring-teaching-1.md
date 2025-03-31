@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-spring-teaching-1
 venue: "Guangdong University of Petrochemical Technology, Computer Department"
-date: 2024-12-10
+date: 2025-12-10
 location: "Maoming City, China"
 ---
 
