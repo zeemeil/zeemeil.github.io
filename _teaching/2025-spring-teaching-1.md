@@ -24,5 +24,7 @@ The experiment [code](/files/2025_1_AI/code/experiment0319_2.py) and input [file
 
 [The slides](/files/2025_1_AI/0320_AI_Search.ppt) for searching strategy on March 25. [The experiment](/files/2025_1_AI/0326_AI_AalgorithmReport2.docx) about solving 8 puzzle problem using [A* algorithm](/files/2025_1_AI/0325_AstarAlgorithm_8puzzle.pdf) at March 26, with 3 python codes for [DFS](/files/2025_1_AI/code/experiment0325_3DFS.py), [BFS](/files/2025_1_AI/code/experiment0325_2BFS.py) and [A* algorithm](/files/2025_1_AI/code/experiment0325_4astar.py).
 
-[The slides](/files/2025_1_AI/0401_AI_GA.ppt) for genetic algorithm at April 1 am.
+[The slides](/files/2025_1_AI/0401_AI_GA.pptx) for genetic algorithm at April 1 am. [The experiment](/files/2025_1_AI/code/experiment0402.py) on April 2 pm.
+
+[The slides](/files/2025_1_AI/0407_AI_PSML.pptx) for expert system and machine learning at April 8 am on week 7th.
 
