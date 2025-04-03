@@ -20,6 +20,6 @@ The data structure is a data organization and storage format that is usually cho
 
 Based on the linear data structure experiment at april 1, the [operation problem](/files/2025_1_DS/0401_DS_ExperimentLinear1.docx) should be completed at lesson time and submitted in the nearest lesson. [The experiment report format](/files/2025_1_DS/0401_DS_ExperimentModule.docx) must like that.
  
-[The slides](/files/2025_1_Ds/0402_DS_Tree.pptx) for tree structures, array and generalized list at April 2.
+[The slides](/files/2025_1_Ds/0402_DS_Tree.pptx) for tree structures, array and generalized list at April 2 and 3. [Practices](/files/2025_1_DS/0403_DS_Practice_binaryTree.pptx)
 
 
