@@ -26,5 +26,7 @@ The experiment [code](/files/2025_1_AI/code/experiment0319_2.py) and input [file
 
 [The slides](/files/2025_1_AI/0401_AI_GA.pptx) for genetic algorithm at April 1 am. [The genetic algorithm](/files/2025_1_AI/code/experiment0402GA4.py) experiment and [the report](/files/2025_1_AI/0402_AI_AalgorithmReport3.docx) would be completed on April 2 pm.
 
-[The slides](/files/2025_1_AI/0407_AI_PSML.pptx) for expert system and [machine learning](/files/2025_1_AI/0407_AI_ML.pptx) at April 8 am on week 7th.
+[The slides](/files/2025_1_AI/0407_AI_PSML.pptx) for expert system and [machine learning](/files/2025_1_AI/0407_AI_ML.pptx) at April 8 am on week 7th. [The linear regression experiment report](/files/2025_1_AI/0409_AI_AalgorithmReport4.docx): [module example](/files/2025_1_AI/code/experiment0409LinearR.py) and [Boston housing prize problem](/files/2025_1_AI/code/experiment0409LinearRBostonHousingPrice.py) with housing [data](/files/2025_1_AI/code/data_collections/housing.csv). 
+
+[The slides](/files/2025_1_AI/0415_AI_neuralNetwork.pptx) for neural network and [deep learning](/files/2025_1_AI/0415_AI_deepLearning.pptx) on April 15.
 
