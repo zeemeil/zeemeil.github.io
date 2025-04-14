@@ -28,4 +28,8 @@ The slides on [execution](/files/2025_1_SE/0407_SE_chapter7Exection.pptx) at Apr
 
 [The software maintenance](/files/2025_1_SE/0417_SE_chapter8.pptx) slides on April 14.
 
+[The experiment](/files/2025_1_SE/0415_SE_experimentReport1.docx) report 1 on April 15. The report should be completed during class time and also be submitted in the nearest class.
+
 [The object-oriented](/files/2025_1_SE/0421_SE_chapter9_OOP.pptx) programming Introduction on April 17.
+
+[The experiment](/files/2025_1_SE/0422_SE_experimentReport2.docx) report 1 on April 22. The report should be completed during class time and also be submitted in the nearest class.
