@@ -30,3 +30,4 @@ The experiment [code](/files/2025_1_AI/code/experiment0319_2.py) and input [file
 
 [The slides](/files/2025_1_AI/0415_AI_neuralNetwork.pptx) for neural network and [deep learning](/files/2025_1_AI/0415_AI_deepLearning.pptx) on April 15.
 
+Experiment about logistic regression.

@@ -20,8 +20,14 @@ The data structure is a data organization and storage format that is usually cho
 
 Based on the linear data structure experiment at april 1, the [operation problem](/files/2025_1_DS/0401_DS_ExperimentLinear1.docx) should be completed during class time and  be submitted in the nearest class. [The experiment report format](/files/2025_1_DS/0401_DS_ExperimentModule.docx) must like that.
  
-[The slides](/files/2025_1_Ds/0402_DS_Tree.pptx) for tree structures, array and generalized list on April 2, 3, 9 and 10, including [non-recursive binary tree](/files/2025_1_DS/0410_DS_ThBiTree.pptx). [Practices](/files/2025_1_DS/0403_DS_Practice_binaryTree.pptx)
+[The slides](/files/2025_1_Ds/0402_DS_Tree.pptx) for tree structures, array and generalized list on April 2, 3, 9, 10 and 16, including [non-recursive binary tree](/files/2025_1_DS/0410_DS_ThBiTree.pptx). [Practices](/files/2025_1_DS/0403_DS_Practice_binaryTree.pptx)
 
 Based on the stark and queue data structure experiment on april 8, the [operation problem](/files/2025_1_DS/0408_DS_ExperimentStark.docx) using C language should be completed during class time and also be submitted in the nearest class.
 
+Based on the binary tree data structure experiment on april 15, the [operation problem](/files/2025_1_DS/0415_DS_ExperimentBiTree.docx) using C or CPP language should be completed during class time and also be submitted in the nearest class.
 
+[The slides](/files/2025_1_DS/0416_DS_Diagram.pptx) show the diagram part on April 16 and 17 class.
+
+Based on the Huffman tree data structure and Huffman encode experiment on april 21, the [operation problem](/files/2025_1_DS/0421_DS_ExperimentHuffmanTree.docx) using C or CPP language should be completed during class time and also be submitted in the nearest class.
+
+[The slides](/files/2025_1_DS/0418_DS_search.pptx) show the searching part on April 23 and 24 class.

@@ -20,8 +20,12 @@ The slides about the [requirement analysis](/files/2025_1_SE/0310_SE_chapter3_re
 
 The slides about [formal verification](/files/2025_1_SE/0317_SE_chapter4_.pptx) at March 17.
 
-The slides on [structure description](/files/2025_1_SE/0320_SE_chapter5_.pptx) at March 20, 24 and 31.
+The slides on [structure description](/files/2025_1_SE/0320_SE_chapter5_.pptx) on March 20, 24 and 31.
 
 The slides on [detail designation](/files/2025_1_SE/0331_SE_chapter6.pptx) at March 31 and April 3.
 
-The slides on [execution](/files/2025_1_SE/0407_SE_chapter7Exection.pptx) at April 7 pm.
+The slides on [execution](/files/2025_1_SE/0407_SE_chapter7Exection.pptx) at April 7 pm and 14.
+
+[The software maintenance](/files/2025_1_SE/0417_SE_chapter8.pptx) slides on April 14.
+
+[The object-oriented](/files/2025_1_SE/0421_SE_chapter9_OOP.pptx) programming Introduction on April 17.
