@@ -32,4 +32,4 @@ The experiment [code](/files/2025_1_AI/code/experiment0319_2.py) and input [file
 
 [Experiment 5](/files/2025_1_AI/0416_AI_logisticRegressionReport5.docx) about logistic regression, including [the breast cancer prediction](/files/2025_1_AI/code/experiment0416LogisticRegress.py) and [the iris classification](/files/2025_1_AI/code/experiment0416LogisticRegressIris.py) using [sklearn](https://scikit-learn.org/) package, a simple logistic regression [example](/files/2025_1_AI/code/experiment0416LogisticRegressPure.py).
 
-[Experiment 6](/files/2025_1_AI/0423_AI_KmeansReport6.docx) about Kmeans algorithm.
+[Experiment 6](/files/2025_1_AI/0423_AI_KmeansReport6.docx) about Kmeans algorithm [programming code](/files/2025_1_AI/code/experiment0423Kmeans.py).
