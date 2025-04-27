@@ -31,3 +31,5 @@ Based on the binary tree data structure experiment on april 15, the [operation p
 Based on the Huffman tree data structure and Huffman encode experiment on april 21, the [operation problem](/files/2025_1_DS/0421_DS_ExperimentHuffmanTree.docx) using C or CPP language should be completed during class time and also be submitted in the nearest class.
 
 [The slides](/files/2025_1_DS/0418_DS_search.pptx) show the searching part on April 23 and 24 class.
+
+[Experiment 6](/files/2025_1_DS/0427_DS_ExperimentGraph.docx) on the basic graph on April 27.
