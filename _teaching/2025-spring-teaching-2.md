@@ -30,6 +30,8 @@ The slides on [execution](/files/2025_1_SE/0407_SE_chapter7Exection.pptx) at Apr
 
 [The experiment](/files/2025_1_SE/0415_SE_experimentReport1.docx) report 1 on April 15. The report should be completed during class time and also be submitted in the nearest class.
 
-[The object-oriented](/files/2025_1_SE/0421_SE_chapter9_OOP.pptx) programming Introduction on April 17.
+[The object-oriented](/files/2025_1_SE/0421_SE_chapter9_OOP.pptx) programming introduction on April 17 and 27.
 
 [The experiment](/files/2025_1_SE/0422_SE_experimentReport2.docx) report 2 on April 22. The report should be completed during class time and also be submitted in the nearest class.
+
+[The OOA](/files/2025_1_SE/0427_SE_chapter10OOA.pptx) and [the OOD](/files/2025_1_SE/0428_SE_chapter11OOD.pptx) on April 27 and 28.
