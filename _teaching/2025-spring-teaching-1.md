@@ -34,4 +34,4 @@ The experiment [code](/files/2025_1_AI/code/experiment0319_2.py) and input [file
 
 [Experiment 6](/files/2025_1_AI/0423_AI_KmeansReport6.docx) about Kmeans algorithm [programming code](/files/2025_1_AI/code/experiment0423Kmeans.py).
 
-[Experiment 7](/files/2025_1_AI/0430_AI_NeuralNetworkReport7.docx) about neural network [programming code](/files/2025_1_AI/code/experiment0430NN.py).
+[Experiment 7](/files/2025_1_AI/0430_AI_NeuralNetworkReport7.docx) about neural network [programming code](/files/2025_1_AI/code/experiment0430NN.py). The other [example](/files/2025_1_AI/0430_AI_NN7.pdf) for NN.
