@@ -33,3 +33,5 @@ Based on the Huffman tree data structure and Huffman encode experiment on april 
 [The slides](/files/2025_1_DS/0418_DS_search.pptx) show the searching part on April 23 and 24 class.
 
 [Experiment 5](/files/2025_1_DS/0427_DS_ExperimentGraph.docx) and [experiment 6](/files/2025_1_DS/0428_DS_ExperimentGraph2Application.docx) on the basic graph on April 27 and 28, respectively.
+
+[The slides](/files/2025_1_DS/0503_DS_Sorting.pptx) show the sorting part on Mar 7 and 8 class.
