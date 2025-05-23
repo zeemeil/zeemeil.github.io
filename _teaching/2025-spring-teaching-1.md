@@ -37,3 +37,5 @@ The experiment [code](/files/2025_1_AI/code/experiment0319_2.py) and input [file
 [Experiment 7](/files/2025_1_AI/0430_AI_NeuralNetworkReport7.docx) about neural network [programming code](/files/2025_1_AI/code/experiment0430NN.py). The other [example](/files/2025_1_AI/0430_AI_NN7.pdf) for NN.
 
 [Experiment report 8](/files/2025_1_AI/0507_AI_CNNReport8.docx) on [a convolutional neural network coding execution](/files/2025_1_AI/CNN.zip).
+
+[0524 Test](/files/0524_test_linearregress.pptx)
