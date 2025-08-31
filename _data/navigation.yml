@@ -3,8 +3,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
 
   - title: "Talks"  # In the main page show items
     url: /talks/
