@@ -16,4 +16,5 @@ These principles are fundamental to designing and implementing software systems 
 | Date     | Homework   | Description |
 | -------- | ---------- | ----------- |
 | [0902](/files/2025_2_PJ/0902_PJ_ch1.pptx)      |  none      | Java introduction |
-| [0903](/files/2025_2_PJ/0902_PJ_ch2.pptx) | yes   | basic programming |
+| [0903](/files/2025_2_PJ/0903_PJ_ch2.pptx) | none   | basic programming |
+| [09010](/files/2025_2_PJ/0909_PJ_ch3.pptx)  | yes        | Object-oriented I |
