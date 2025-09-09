@@ -14,5 +14,5 @@ OS manipulates basic tasks such as managing and allocating memory, determining t
 
 | Date     | Homework   | Description |
 | -------- | ---------- | ----------- |
-| [0902,03](/files/2025_2_OS/090203_OS_ch1.pptx)      |  none      | OS introduction |
-| [0909](/files/2025_2_OS/0909_OS_ch2.pptx) | yes   | procedures |
+| [0902,03,09](/files/2025_2_OS/0902_03_OS_ch1.pptx)      |  none      | OS introduction |
+| [0909,16](/files/2025_2_OS/0909_OS_ch2.pptx) | [yes](/files/2025_2_OS/0909_hw01.pdf)   | procedures |
