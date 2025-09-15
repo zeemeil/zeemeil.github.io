@@ -11,7 +11,7 @@ location: "Maoming City, China"
 Principles of Object-Oriented Programming （OOP） refers to the foundational concepts and methodologies in object-oriented programming (OOP) such as encapsulation, inheritance, polymorphism, and abstraction. 
 
 These principles are fundamental to designing and implementing software systems where objects are used as the primary building blocks.
-"Practical Java" denotes the application and implementation of these object-oriented principles using the Java programming language. It involves not only understanding Java syntax and features but also applying best practices in software design and development to solve real-world problems effectively. Two reference books for learning Java, [I](https://github.com/0voice/expert_readed_books/blob/master/%E8%BD%AF%E4%BB%B6%E6%8A%80%E6%9C%AF/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF(%E5%8D%B71)%EF%BC%9A%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86(%E5%8E%9F%E4%B9%A6%E7%AC%AC8%E7%89%88).pdf) and [II](https://github.com/0voice/expert_readed_books/blob/master/%E8%BD%AF%E4%BB%B6%E6%8A%80%E6%9C%AF/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E5%8D%B7%202%20%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%20%E5%8E%9F%E4%B9%A6%E7%AC%AC8%E7%89%88.pdf). 
+"Practical Java" denotes the application and implementation of these object-oriented principles using the Java programming language. It involves not only understanding Java syntax and features but also applying best practices in software design and development to solve real-world problems effectively. Two reference books for learning Java, [I](https://github.com/0voice/expert_readed_books/blob/master/%E8%BD%AF%E4%BB%B6%E6%8A%80%E6%9C%AF/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF(%E5%8D%B71)%EF%BC%9A%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86(%E5%8E%9F%E4%B9%A6%E7%AC%AC8%E7%89%88).pdf) and [II](https://github.com/0voice/expert_readed_books/blob/master/%E8%BD%AF%E4%BB%B6%E6%8A%80%E6%9C%AF/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E5%8D%B7%202%20%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%20%E5%8E%9F%E4%B9%A6%E7%AC%AC8%E7%89%88.pdf). The experiment model is [here](/files/2025_2_PJ/0919_PJ_Experiment_model.docx).
 
 | Date     | Homework   | Description |
 | -------- | ---------- | ----------- |
@@ -19,3 +19,8 @@ These principles are fundamental to designing and implementing software systems 
 | [0903,10](/files/2025_2_PJ/0903_10_PJ_ch2.pptx) | [yes](/files/2025_2_PJ/0910_PJ_hw01.pdf)   | basic programming |
 | [0910,16](/files/2025_2_PJ/0910_PJ_ch3.pptx)  | none       | Object-oriented I |
 | [0916,17](/files/2025_2_PJ/0916_PJ_ch3part2.pptx) | none | Object-oriented II |
+
+
+| Experiment | Tasks  | 
+| ---------- | ------ |
+| First Java program | [Lab01](/files/2025_2_PJ/0919_PJ_experiment1.pdf) |
