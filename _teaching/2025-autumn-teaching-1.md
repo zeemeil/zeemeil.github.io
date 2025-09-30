@@ -16,5 +16,6 @@ OS manipulates basic tasks such as managing and allocating memory, determining t
 | -------- | ---------- | ----------- |
 | [0902,03,09](/files/2025_2_OS/0902_03_OS_ch1.pptx)      |  none      | OS introduction |
 | [0909,16](/files/2025_2_OS/0909_OS_ch2_process1.pptx) | [yes](/files/2025_2_OS/0909_hw01.pdf)   | procedures, cpu |
-| [0928](/files/2025_2_OS/0928_OS_ch2_process2.pptx) | none   | procedures, cpu |
+| [0928](/files/2025_2_OS/0928_OS_ch2_process2.pptx) | none   | process |
+| [0930](/files/2025_2_OS/0930_OS_ch2_thread.pptx) | none | thread |
 | [0930](/files/2025_2_OS/0930_OS_ch3.pptx) | none | memory |
