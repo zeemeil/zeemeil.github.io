@@ -21,6 +21,6 @@ These principles are fundamental to designing and implementing software systems 
 | [1009](/files/2025_2_PJ/1009_PJ_ch4.pptx) | none | Object-oriented II |
 
 
-| Experiment | Tasks  | 
+| Experiment | Tasks  |
 | ---------- | ------ |
 | First Java program | [Lab01](/files/2025_2_PJ/0919_PJ_experiment1.pdf) |

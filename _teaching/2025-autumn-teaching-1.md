@@ -21,6 +21,7 @@ OS manipulates basic tasks such as managing and allocating memory, determining t
 | [0930](/files/2025_2_OS/0930_OS_ch3.pptx) | none | memory |
 
 Operating system experiments contain the linux basic [commands part](/files/2025_2_OS/1011_OS_ExPartA.pdf) and [the report module](/files/2025_2_OS/1011_OS_Experiment_model.docx).
+
 | Experiment | Tasks  | Due date |
 | ---------- | ------ | -------- |
 | 1011 | [Lab01](/files/2025_2_OS/1011_OS_experiment1.pdf) | 1022 |
