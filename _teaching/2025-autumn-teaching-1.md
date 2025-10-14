@@ -12,14 +12,15 @@ An operating system (OS) is a set of manual and automatic procedures that enable
 
 OS manipulates basic tasks such as managing and allocating memory, determining the priority of system resource supply and demand, controlling input and output devices, operating the network, and managing the file system. Except the textbook, there are several books as the references for making up the detail, such as [operating system concepts](Except the textbook, there are several books as the references for making up the detail, such as) and [modern operating systems](https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Modern%20Operating%20Systems.pdf). The management in this term as follow:
 
-| Date     | Homework   | Description |
+| Date     |  Tasks   | Description |
 | -------- | ---------- | ----------- |
 | [0902,03,09](/files/2025_2_OS/0902_03_OS_ch1.pptx)      |  none      | OS introduction |
-| [0909,16](/files/2025_2_OS/0909_OS_ch2_process1.pptx) | [yes](/files/2025_2_OS/0909_hw01.pdf)   | procedures, cpu |
-| [0928](/files/2025_2_OS/0928_OS_ch2_process2.pptx) | none   | process |
-| [0930](/files/2025_2_OS/0930_OS_ch2_thread.pptx) | none | thread |
+| [0909,16](/files/2025_2_OS/0909_OS_ch2_process1.pptx) | [homework](/files/2025_2_OS/0909_hw01.pdf)   | procedures, cpu |
+| [0928](/files/2025_2_OS/0928_OS_ch2_process2.pptx) | [Exercise](/files/2025_2_OS/0928_OS_Exercise_cpu.pdf)   | process |
+| [0930](/files/2025_2_OS/0930_OS_ch2_thread.pptx) | [Exercise](/files/2025_2_OS/0930_OS_Exercise_cpu.pdf)  | thread |
 | [0930,1014](/files/2025_2_OS/0930_OS_ch3.pptx) | none | memory |
 | [1015](/files/2025_2_OS/1015_OS_device.pptx) | none | Devices manage |
+
 
 Operating system experiments contain the linux basic [commands part](/files/2025_2_OS/1011_OS_ExPartA.pdf) and [the report module](/files/2025_2_OS/1011_OS_Experiment_model.docx).
 
