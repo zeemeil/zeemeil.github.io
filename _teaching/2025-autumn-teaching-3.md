@@ -19,5 +19,5 @@ Moreover, linear algebra plays significate role in most technology and sciences 
 | [1010](/files/2025_2_LM/1005_0102.pptx) | none | order n determinant |
 | [1014](/files/2025_2_LM/1007_0103.pptx) | none | properties of determinant |
 | [1017](/files/2025_2_LM/1010_0104.pptx) | none | determinant expansion |
-| [1021](/files/2025_2_LM/1017_0105.pptx) | none | Klam rule ｜
+| [1021](/files/2025_2_LM/1017_0105.pptx) | [Exercise for Chapter1](/files/2025_2_LM/1017_0105.pptx), [homework](/files/2025_2_LM/1017_homework.pdf)  | Cramer formula ｜
 | [1024](/files/2025_2_LM/1021_0201.pptx) | none | Matrix ｜ 
