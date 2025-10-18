@@ -27,3 +27,4 @@ Operating system experiments contain the linux basic [commands part](/files/2025
 | Experiment | Tasks  | Due date |
 | ---------- | ------ | -------- |
 | 1011 | [Lab01](/files/2025_2_OS/1011_OS_experiment1.pdf) | 1022 |
+| 1105 | [Lab02](/files/2025_2_OS/1022_OS_experiment2.pdf) | 1105 |

@@ -20,8 +20,8 @@ Moreover, linear algebra plays significate role in most technology and sciences 
 | [1010](/files/2025_2_LM/1007_0103.pptx) | none | properties of determinant |
 | [1014](/files/2025_2_LM/1010_0104.pptx) | none | determinant expansion     |
 | [1017](/files/2025_2_LM/1017_0105.pptx) | [Exercise for Chapter1](/files/2025_2_LM/1017_exercise_chapter01_determinant.pdf), [homework](/files/2025_2_LM/1017_homework.pdf)  |  Cramer formula 
-| [1021](/files/2025_2_LM/1021_0201.pptx), [1024](/files/2025_2_LM/1024_0202.pptx) | none |  Matrix  definition and calculation
-| [1028](/files/2025_2_LM/1028_0203.pptx) | none | Inverse Matrix 
-| [1031](/files/2025_2_LM/1031_0204.pptx) | none | Partitioned matrices 
-| [1104](/files/2025_2_LM/1104_0205.pptx) | none | Matrix elementary transformation 
-| [1107](/files/2025_2_LM/1107_0206.pptx) | none | Matrices rank 
+| [1021](/files/2025_2_LM/1021_0201.pptx), [1024](/files/2025_2_LM/1024_0202.pptx) | none |  Matrix  definition and calculation                                                          |
+| [1028](/files/2025_2_LM/1028_0203.pptx) | none | Inverse Matrix                   |
+| [1031](/files/2025_2_LM/1031_0204.pptx) | none | Partitioned matrices             |
+| [1104](/files/2025_2_LM/1104_0205.pptx) | none | Matrix elementary transformation |
+| [1107](/files/2025_2_LM/1107_0206.pptx) | none | Matrices rank                |
