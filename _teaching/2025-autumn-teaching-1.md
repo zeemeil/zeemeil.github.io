@@ -14,12 +14,13 @@ OS manipulates basic tasks such as managing and allocating memory, determining t
 
 | Date     |  Tasks   | Description |
 | -------- | ---------- | ----------- |
-| [0902,03,09](/files/2025_2_OS/0902_03_OS_ch1.pptx)      |  none      | OS introduction |
-| [0909,16](/files/2025_2_OS/0909_OS_ch2_process1.pptx) | [homework](/files/2025_2_OS/0909_hw01.pdf)   | procedures, cpu |
+| [0902,03,09](/files/2025_2_OS/0902_03_OS_ch1.pptx)      |  [OS overview](/files/2025_2_OS/0902_OS_Exercise_overview.pdf)      | OS introduction |
+| [0909,16](/files/2025_2_OS/0909_OS_ch2_process1.pptx) | [cpu exercise](/files/2025_2_OS/0909_OS_Exercise_cpu.pdf), [homework](/files/2025_2_OS/0909_hw01.pdf)   | procedures, cpu |
 | [0928](/files/2025_2_OS/0928_OS_ch2_process2.pptx) | [Exercise](/files/2025_2_OS/0928_OS_Exercise_cpu.pdf)   | process |
 | [0930](/files/2025_2_OS/0930_OS_ch2_thread.pptx) | [Exercise](/files/2025_2_OS/0930_OS_Exercise_cpu.pdf)  | thread |
-| [0930,1014](/files/2025_2_OS/0930_OS_ch3.pptx) | none | memory |
-| [1015](/files/2025_2_OS/1015_OS_device.pptx) | none | Devices manage |
+| [0930,1014](/files/2025_2_OS/0930_OS_ch3.pptx) | [memory exercise](/files/2025_2_OS/0930_OS_Exercise_memory.pdf) | memory |
+| [1015,1021](/files/2025_2_OS/1015_OS_device.pptx) | [Exercise](/files/2025_2_OS/1021_OS_Exercise_device.pdf) | Devices manage |
+| [1028,1029](/files/2025_2_OS/1028_OS_file.pptx) | [Exercise](/files/2025_2_OS/1028_OS_Exercise_file.pdf) | file manage |
 
 
 Operating system experiments contain the linux basic [commands part](/files/2025_2_OS/1011_OS_ExPartA.pdf) and [the report module](/files/2025_2_OS/1011_OS_Experiment_model.docx).
@@ -27,4 +28,4 @@ Operating system experiments contain the linux basic [commands part](/files/2025
 | Experiment | Tasks  | Due date |
 | ---------- | ------ | -------- |
 | 1011 | [Lab01](/files/2025_2_OS/1011_OS_experiment1.pdf) | 1022 |
-| 1105 | [Lab02](/files/2025_2_OS/1022_OS_experiment2.pdf) | 1105 |
+| 1022 | [Lab02](/files/2025_2_OS/1022_OS_experiment2.pdf) | 1105 |
