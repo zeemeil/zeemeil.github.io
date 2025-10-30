@@ -23,5 +23,11 @@ Moreover, linear algebra plays significate role in most technology and sciences 
 | [1021](/files/2025_2_LM/1021_0201.pptx), [1024](/files/2025_2_LM/1024_0202.pptx) | none |  Matrix  definition and calculation                                                          |
 | [1024](/files/2025_2_LM/1024_0203.pptx) | [Exercise2](/files/2025_2_LM/1024_Exercise_Matrices.pdf) | Inverse Matrix                   |
 | [1028](/files/2025_2_LM/1028_0204.pptx) | [Exam](/files/2025_2_LM/1028_LM_Exam.pdf) | Partitioned matrices             |
-| [1031](/files/2025_2_LM/1031_0205.pptx) | none | Matrix elementary transformation |
-| [1104](/files/2025_2_LM/1107_0206.pptx) | none | Matrices rank |
+| [1031](/files/2025_2_LM/1031_0205.pptx) | [Answer2](/files/2025_2_LM/1031_Matrices_anwser.pdf) | Matrix elementary transformation |
+| [1031](/files/2025_2_LM/1104_0206.pptx) | none | Matrices rank |
+| [1104](/files/2025_2_LM/1104_0301.pptx) | none | Solutions to a system of linear equations |
+| [1107](/files/2025_2_LM/1107_0302.pptx) | none | sets of vectors and its linear combination |
+| [1118](/files/2025_2_LM/1118_0303.pptx) | none | linearly dependent vectors |
+| [1121](/files/2025_2_LM/1121_0304.pptx) | none | rank of a set of vectors |
+| [1125](/files/2025_2_LM/1125_0305.pptx) | none | structure of solutions to linear systems |
+| [1128](/files/2025_2_LM/1128_0306.pptx) | none | vector space |
