@@ -8,15 +8,14 @@ date: 2025-09-29
 location: "Maoming City, China"
 ---
 
-<p>Linear algebra is a basic lesson of the advanced mathematics in college education. Also, it provides the fundamental calculating rule to the engineering and information science disciplines.</p>
+Linear algebra is a basic lesson of the advanced mathematics in college education. Also, it provides the fundamental calculating rule to the engineering and information science disciplines.
 
-<p>Moreover, linear algebra plays significate role in most technology and sciences because of calculating efficiently and constructing natural patton to model. Even if the nonlinear models, which is difficultly developed into linear model, there are the differential of a multivariate ways at a fixed area mapped into the best approximate field of the linear functions. Two reference books for learning linear algebra, [linear algebra textbook](https://www.math.pku.edu.cn/teachers/anjp/textbook.pdf) and [linear algebra lesson](https://innovation-activities.oss-cn-beijing.aliyuncs.com/27/mswcWkh7iX.pdf). </p>
+Moreover, linear algebra plays significate role in most technology and sciences because of calculating efficiently and constructing natural patton to model. Even if the nonlinear models, which is difficultly developed into linear model, there are the differential of a multivariate ways at a fixed area mapped into the best approximate field of the linear functions. Two reference books for learning linear algebra, [linear algebra textbook](https://www.math.pku.edu.cn/teachers/anjp/textbook.pdf) and [linear algebra lesson](https://innovation-activities.oss-cn-beijing.aliyuncs.com/27/mswcWkh7iX.pdf).
 
-## Answers to textbook exercises
-### [Chapter 1](/files/2025_2_LM/1103_chapter1_answer.pdf), [Chapter 2](/files/2025_2_LM/1103_chapter2_answer.pdf), Chapter 3, Chapter 4.
+Answers to textbook exercises: [Chapter 1](/files/2025_2_LM/1103_chapter1_answer.pdf), [Chapter 2](/files/2025_2_LM/1103_chapter2_answer.pdf), Chapter 3, Chapter 4.
 
 | Date/Slides     | Tasks      | Description |
-| -------- | ---------- | ----------- |
+| --------------- | ---------- | ----------- |
 | [0930](/files/2025_2_LM/0930_0101.pptx) | none | order 2 and 3 determinant |
 | [1010](/files/2025_2_LM/1005_0102.pptx) | none | order n determinant       |
 | [1010](/files/2025_2_LM/1007_0103.pptx) | none | properties of determinant |
