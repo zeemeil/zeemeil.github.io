@@ -21,8 +21,9 @@ OS manipulates basic tasks such as managing and allocating memory, determining t
 | [0930,1014](/files/2025_2_OS/0930_OS_ch3.pptx) | [memory exercise](/files/2025_2_OS/0930_OS_Exercise_memory.pdf) | memory |
 | [1015,1021](/files/2025_2_OS/1015_OS_device.pptx) | [Exercise](/files/2025_2_OS/1021_OS_Exercise_device.pdf) | Devices manage |
 | [1028,1029](/files/2025_2_OS/1028_OS_file.pptx) | [Exercise](/files/2025_2_OS/1028_OS_Exercise_file.pdf) | file manage |
-| [1029,1104](/files/2025_2_OS/1029_OS_ch6.pptx) | none | Concurrent |
-| [1111](/files/2025_2_OS/1111_OS_ch7.pptx) | none | Cloud system |
+| [1029,1104,1111](/files/2025_2_OS/1029_OS_ch6.pptx) | none | Concurrent |
+| [1112](/files/2025_2_OS/1111_OS_ch7.pptx) | none | Cloud system |
+| [1118] | none | |
 
 
 Operating system experiments contain the linux basic [commands part](/files/2025_2_OS/1011_OS_ExPartA.pdf) and [the report module](/files/2025_2_OS/1011_OS_Experiment_model.docx).

@@ -23,7 +23,7 @@ These principles are fundamental to designing and implementing software systems 
 | [1028](/files/2025_2_PJ/1028_PJ_ch6.pptx) | [Exam](/files/2025_2_PJ/1028_PJ_Exam.pdf) | Java API | [Code](/files/2025_2_PJ/code_ch6.zip)  |
 | [1105,1111](/files/2025_2_PJ/1029_PJ_ch7.pptx) | none | Set   | [Code](/files/2025_2_PJ/code_ch7.zip) |
 | [1112](/files/2025_2_PJ/1105_PJ_ch8.pptx) | none | Generics | [Code](/files/2025_2_PJ/code_ch8.zip) |
-
+| [1118](/files/2025_2_PJ/1118_PJ_ch9.pptx) | Reflection | none | [Code](/files/2025_2_PJ/code_ch9.zip) |
 
 
 | Experiment | Tasks  | Due date |
