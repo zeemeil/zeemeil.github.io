@@ -24,7 +24,7 @@ These principles are fundamental to designing and implementing software systems 
 | [1105,1111](/files/2025_2_PJ/1029_PJ_ch7.pptx) | none | Set   | [Code](/files/2025_2_PJ/code_ch7.zip) |
 | [1112](/files/2025_2_PJ/1105_PJ_ch8.pptx) | none | Generics | [Code](/files/2025_2_PJ/code_ch8.zip) |
 | [1119](/files/2025_2_PJ/1118_PJ_ch9.pptx) | none | Reflection | [Code](/files/2025_2_PJ/code_ch9.zip) |
-| 1125(/files/2025_2_PJ/1125_PJ_ch10.pptx) | none | [IO](/files/2025_2_PJ/1125_PJ_ch10.pptx), [Java database connectivity](/files/2025_2_PJ/1125_PJ_ch11.pptx) | [Code_ch10](/files/2025_2_PJ/code_ch10.zip) |
+| 1125 | none | [IO](/files/2025_2_PJ/1125_PJ_ch10.pptx), [Java database connectivity](/files/2025_2_PJ/1125_PJ_ch11.pptx) | [Code_ch10](/files/2025_2_PJ/code_ch10.zip) |
 | 1126 | none | [Multiply thread](/files/2025_2_PJ/1126_PJ_ch12.pptx), [Internet programming](/files/2025_2_PJ/1126_PJ_ch13.pptx) | [Code_ch12](/files/2025_2_PJ/code_ch12.zip), [Code_ch13](/files/2025_2_PJ/code_ch13.zip) |
 
 | Experiment | Tasks  | Due date |
