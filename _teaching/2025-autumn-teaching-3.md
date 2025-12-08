@@ -12,7 +12,7 @@ Linear algebra is a basic lesson of the advanced mathematics in college educatio
 
 Moreover, linear algebra plays significate role in most technology and sciences because of calculating efficiently and constructing natural patton to model. Even if the nonlinear models, which is difficultly developed into linear model, there are the differential of a multivariate ways at a fixed area mapped into the best approximate field of the linear functions. Two reference books for learning linear algebra, [linear algebra textbook](https://www.math.pku.edu.cn/teachers/anjp/textbook.pdf) and [linear algebra lesson](https://innovation-activities.oss-cn-beijing.aliyuncs.com/27/mswcWkh7iX.pdf).
 
-Answers to textbook exercises: [Chapter 1](/files/2025_2_LM/1103_chapter1_answer.pdf), [Chapter 2](/files/2025_2_LM/1103_chapter2_answer.pdf), [Chapter 3](/files/2025_2_LM/1125_chapter3_answer.pdf), Chapter 4.
+Answers to textbook exercises: [Chapter 1](/files/2025_2_LM/1103_chapter1_answer.pdf), [Chapter 2](/files/2025_2_LM/1103_chapter2_answer.pdf), [Chapter 3](/files/2025_2_LM/1125_chapter3_answer.pdf), [Chapter 4](/files/2025_2_LM/1209_chaper4_answer.pdf).
 
 | Chapter | Date/Slides     | Tasks      | Description |
 | ------- | --------------- | ---------- | ----------- |
@@ -33,8 +33,7 @@ Answers to textbook exercises: [Chapter 1](/files/2025_2_LM/1103_chapter1_answer
 |         | [1125](/files/2025_2_LM/1125_0305.pptx) | none | structure of solutions to linear systems |
 |         | [1125](/files/2025_2_LM/1128_0306.pptx) | [Answer3](/files/2025_2_LM/1125_Answer_vector.pdf), homework | vector space |
 | Ch4 Normal matrix | [1128](/files/2025_2_LM/1202_0401.pptx) | [Exercise4](/files/2025_2_LM/1128_Exercise_linearSystem.pdf) | dot product |
-|         | [1205](/files/2025_2_LM/1205_0402.pptx) | none | Eigenvalue, eigenvector |
-|         | [1209](/files/2025_2_LM/1209_0403.pptx) | none | similar matrix |
-|         | [1212](/files/2025_2_LM/1212_0404.pptx) | none | diagonalization |
-|         | [1216](/files/2025_2_LM/1216_0405.pptx) | none | quadratic form, standard form |
-|         | [1219](/files/2025_2_LM/1219_0406.pptx) | none | positive-define matrix |
+|         | [1202](/files/2025_2_LM/1205_0402.pptx) | [Answer4](/files/2025_2_LM/1209_Answer_linearSystem.pdf) | Eigenvalue, eigenvector |
+|         | [1205](/files/2025_2_LM/1209_0403.pptx) | [Exercise5](/files/2025_2_LM/1216_Exercise_%20diagonalization.pdf) | similar matrix |
+|         | [1209](/files/2025_2_LM/1212_0404.pptx) | [Answer5](/files/2025_2_LM/1219_Answer_%20diagonalization.pdf) | diagonalization |
+|         | 1212,1216,1219 | none | Review |
