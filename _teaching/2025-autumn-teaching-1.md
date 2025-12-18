@@ -10,6 +10,8 @@ location: "Maoming City, China"
 
 An operating system (OS) is a set of manual and automatic procedures that enable different person share a computers installations efficiently. 
 
+<div style="display: none">
+
 OS manipulates basic tasks such as managing and allocating memory, determining the priority of system resource supply and demand, controlling input and output devices, operating the network, and managing the file system. Except the textbook, there are several books as the references for making up the detail, such as [operating system concepts](Except the textbook, there are several books as the references for making up the detail, such as) and [modern operating systems](https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Modern%20Operating%20Systems.pdf). The management in this term as follow:
 
 | Date     |  Tasks   | Description |
@@ -34,3 +36,5 @@ Operating system experiments contain the linux basic [commands part](/files/2025
 | 1022 | [Lab02](/files/2025_2_OS/1022_OS_experiment2.pdf) | 1105 |
 | 1105 | [Lab03](/files/2025_2_OS/1105_OS_experiment3.pdf) | 1119 |
 | 1119 | [LAB04](/files/2025_2_OS/1119_OS_experiment04.pdf)| expired |
+
+</div>

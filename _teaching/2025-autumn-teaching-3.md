@@ -38,4 +38,4 @@ Answers to textbook exercises: [Chapter 1](/files/2025_2_LM/1103_chapter1_answer
 |         | [1209](/files/2025_2_LM/1212_0404.pptx) | [Answer5](/files/2025_2_LM/1219_Answer_%20diagonalization.pdf) | diagonalization |
 |         | [1212](/files/2025_2_LM/1216_0405.pptx) | none | quadratic form, standard form |
 |         | [1216](/files/2025_2_LM/1219_0406.pptx) | none |  positive-define matrix |
-|         | 1219 | none | Review |
+|         | 1219 | [LM cheat sheet](/files/2025_2_LM/lmcheatsheet.pdf) | Review |
