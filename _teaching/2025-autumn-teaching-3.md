@@ -10,6 +10,8 @@ location: "Maoming City, China"
 
 Linear algebra is a basic lesson of the advanced mathematics in college education. Also, it provides the fundamental calculating rule to the engineering and information science disciplines.
 
+<div style="display: none">
+
 Moreover, linear algebra plays significate role in most technology and sciences because of calculating efficiently and constructing natural patton to model. Even if the nonlinear models, which is difficultly developed into linear model, there are the differential of a multivariate ways at a fixed area mapped into the best approximate field of the linear functions. Two reference books for learning linear algebra, [linear algebra textbook](https://www.math.pku.edu.cn/teachers/anjp/textbook.pdf) and [linear algebra lesson](https://innovation-activities.oss-cn-beijing.aliyuncs.com/27/mswcWkh7iX.pdf).
 
 Answers to textbook exercises: [Chapter 1](/files/2025_2_LM/1103_chapter1_answer.pdf), [Chapter 2](/files/2025_2_LM/1103_chapter2_answer.pdf), [Chapter 3](/files/2025_2_LM/1125_chapter3_answer.pdf), [Chapter 4](/files/2025_2_LM/1209_chaper4_answer.pdf).
@@ -39,3 +41,5 @@ Answers to textbook exercises: [Chapter 1](/files/2025_2_LM/1103_chapter1_answer
 |         | [1212](/files/2025_2_LM/1216_0405.pptx) | none | quadratic form, standard form |
 |         | [1216](/files/2025_2_LM/1219_0406.pptx) | none |  positive-define matrix |
 |         | 1219 | [LM cheat sheet](/files/2025_2_LM/lmcheatsheet.pdf) | Review |
+
+</div>
