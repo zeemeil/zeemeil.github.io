@@ -2,7 +2,7 @@
 title: "Data Structures"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-spring-teaching-3
+# permalink: /teaching/2025-spring-teaching-3
 venue: "Guangdong University of Petrochemical Technology, Computer Department"
 date: 2025-02-25
 location: "Maoming City, China"
