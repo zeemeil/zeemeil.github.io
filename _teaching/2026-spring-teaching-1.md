@@ -12,4 +12,4 @@ The data structure is a data organization and storage format that is usually cho
 
 | Chapter | Date/Slides     | Tasks      | Description |
 | ------- | --------------- | ---------- | ----------- |
-| introduction | [0302](/files/2026_1_SE/0302_SE_chapter1.pptx)   | None | SE crisis, period, software process|
+| introduction | [0302](/files/2026_1_DS/0302_DS_chapter1.pptx) | None | algorithm and complexity, data structure |
