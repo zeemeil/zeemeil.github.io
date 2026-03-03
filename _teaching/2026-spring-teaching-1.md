@@ -2,7 +2,7 @@
 title: "Data Structures 2026"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2026-spring-ds
+permalink: /teaching/2026-spring-teaching-1
 venue: "Guangdong University of Petrochemical Technology, Computer Department"
 date: 2026-03-01
 location: "Maoming City, China"
