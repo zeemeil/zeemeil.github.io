@@ -13,4 +13,6 @@ Software engineering is a branch of engineering focused on the design, developme
 | Chapter | Date/Slides     | Tasks      | Description |
 | ------- | --------------- | ---------- | ----------- |
 | introduction | [0302](/files/2026_1_SE/0302_SE_chapter1.pptx)   | None | SE crisis, period, software process|
-| introduction | [0310](/files/2026_1_SE/0310_SE_feasibility.pptx) [0310](/files/2026_1_SE/0310_SE_chapter2.pptx)  | None | SE crisis, period, software process|
+| Feasibility | [0310](/files/2026_1_SE/0310_SE_feasibility.pptx) [0310](/files/2026_1_SE/0310_SE_chapter2.pptx)  | None | processing figure  |
+| requirement | [0312](/files/2026_1_SE/0312_SE_chapter3_requirement.pptx)  | None | 
+require analysis |

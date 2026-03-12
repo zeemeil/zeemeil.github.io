@@ -13,4 +13,4 @@ The data structure is a data organization and storage format that is usually cho
 | Chapter | Date/Slides     | Tasks      | Description |
 | ------- | --------------- | ---------- | ----------- |
 | introduction | [0302](/files/2026_1_DS/0302_DS_chapter1.pptx) | None | algorithm and complexity, data structure |
-| introduction | [0310](/files/2026_1_DS/0310_DS_chapter2.pptx) | None | linear table |
+| linear | [0310](/files/2026_1_DS/0310_DS_chapter2.pptx) | [homework](/files/2026_1_DS/01DS_homework.pdf), [exercise](/files/2026_1_DS/01Exercise_chapter1.pdf) | linear table |
