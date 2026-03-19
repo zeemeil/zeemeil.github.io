@@ -15,5 +15,5 @@ Software engineering is a branch of engineering focused on the design, developme
 | introduction | [0302](/files/2026_1_SE/0302_SE_chapter1.pptx)   | None | SE crisis, period, software process|
 | Feasibility | [0310](/files/2026_1_SE/0310_SE_feasibility.pptx) [0310](/files/2026_1_SE/0310_SE_chapter2.pptx)  | None | processing figure  |
 | requirement | [0312](/files/2026_1_SE/0312_SE_chapter3_requirement.pptx)  | None | require analysis |
-| Formal Verification ｜[0319_1](/files/2026_1_SE/0319_SE_chapter4_.pptx)[0319_2](/files/2026_1_SE/0319_SE_chapter4_designSoftware.pptx) | none |  |
-| Whole Design | [0319](/files/2026_1_SE/0319_SE_chapter5_.pptx) | none |  |
+| Formal Verification ｜ [0319_1](/files/2026_1_SE/0319_SE_chapter4_.pptx)[0319_2](/files/2026_1_SE/0319_SE_chapter4_designSoftware.pptx) | none |  finite-state machine, Petri internet, z notation  |
+| Whole Design | [0324](/files/2026_1_SE/0324_SE_chapter5_.pptx) | none |  |
