@@ -16,5 +16,5 @@ Software engineering is a branch of engineering focused on the design, developme
 | feasibility | [0310](/files/2026_1_SE/0310_SE_feasibility.pptx) [0310](/files/2026_1_SE/0310_SE_chapter2.pptx)  | homework1: feasibility report | processing figure  |
 | requirement | [0312](/files/2026_1_SE/0312_SE_chapter3_requirement.pptx)  | None | require analysis |
 | Formal Verification | [0319-24](/files/2026_1_SE/0319_SE_chapter4_.pptx) | none | finite-state machine, Petri internet, z notation |
-| Whole Design | [0324](/files/2026_1_SE/0324_SE_chapter5_.pptx) | none | API, design |
+| Overall Design | [0324](/files/2026_1_SE/0324_SE_chapter5_.pptx) | [homework 2](/files/2026_1_SE/02SE_homework.pdf) | API, design |
 | Detail Design | [0326](/files/2026_1_SE/0326_SE_chapter6_.pptx) | none | Structure, UI |
