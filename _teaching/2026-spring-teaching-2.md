@@ -21,3 +21,9 @@ The examination contains: the group presentation, the group project and its docu
 | Overall Design | [0324](/files/2026_1_SE/0324_SE_chapter5_.pptx) | [homework 2](/files/2026_1_SE/02SE_homework.pdf) | API, design |
 | Detail Design | [0326-0407](/files/2026_1_SE/0326_SE_chapter6_.pptx) | none | Structure, UI |
 | Implementation | [0409](/files/2026_1_SE/0409_SE_chapter7.pptx) | none | Test |
+| Presentation | [0421](/files/2026_1_SE/0421_SE_LLM.pptx) | ---------- | ----------- |
+
+Presentation plan: 
+0421--group 2, 15, 6, 3, 9 
+0422--group 4, 11, 10, 8, 7 
+0423--group 5, 13, 14, 1, 12  
