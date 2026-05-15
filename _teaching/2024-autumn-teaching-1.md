@@ -1,4 +1,4 @@
----
+<!---
 title: "Software Engineering"
 collection: teaching
 type: "Undergraduate course"
@@ -37,4 +37,4 @@ Add [SE maintain](/files/2024_2_SE/1028_SE_maintain.pdf), [process](/files/2024_
 Add presentation for [Internet Engineering](/files/2024_2_SE/1210_Internet.pptx)
 
 
-</div>
+</div> -->

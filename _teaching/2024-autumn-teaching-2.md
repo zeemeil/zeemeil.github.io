@@ -1,4 +1,4 @@
----
+<!--- ---
 title: "Principles of Object-Oriented Programming and Practical Java"
 collection: teaching
 type: "Undergraduate course"
@@ -50,4 +50,4 @@ Add Java [Internet programming](/files/2024_2_POOPJAVA/1107_Java_InternetPromgra
 
 [Final exam simulation](/files/2024_2_POOPJAVA/1115_Java_final.pdf)
 
-</div>
+</div> -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Computer Foundations and Artificial Intelligence II"
 collection: teaching
 type: "Undergraduate course"
@@ -55,4 +55,4 @@ Python is a high-level, general-purpose programming language. Its design philoso
 [2024.04.29 Exam](/files/2024_1_CFAI/2024_营销3班4班python机试.docx)
 
 
-</div>
+</div> -->
