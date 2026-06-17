@@ -10,6 +10,8 @@ location: "Maoming City, China"
 
 Software engineering is a branch of engineering focused on the design, development, maintenance, and management of software systems. It combines principles from computer science, engineering, and project management to create reliable, efficient, and scalable software applications. The reference materials are [as follows](https://github.com/QSCTech/zju-icicles/blob/master/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E6%95%99%E6%9D%90/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%EF%BC%9A%E5%AE%9E%E8%B7%B5%E8%80%85%E7%9A%84%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%EF%BC%88%E7%AC%AC7%E7%89%88%EF%BC%89.pdf). 
 
+<div style="display: none">
+
 The examination contains: the group presentation, the group project and its document([document fist page](/files/2026_1_SE/SE_firstPage.docx)).
 
 | Chapter | Date/Slides     | Tasks      | Description |
@@ -27,3 +29,11 @@ Presentation plan:
 0421--group 2, 15, 6, 3, 9 
 0422--group 4, 11, 10, 8, 7 
 0423--group 5, 13, 14, 1, 12  
+
+</div>
+
+综合实训时间：2026年6月22日-26日 下午5-8节
+
+地点：学科楼409 综合实验(三)室
+
+完成条件：[综合实验内容](/files/2026_1_SE/se.tar.gz)

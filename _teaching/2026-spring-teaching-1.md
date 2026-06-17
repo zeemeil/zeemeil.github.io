@@ -10,6 +10,8 @@ location: "Maoming City, China"
 
 The data structure is a data organization and storage format that is usually chosen for efficient access to data. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data, i.e., it is an algebraic structure about data. There are useful textbook after class, such as [the algorithm 4th](https://yun.weicheng.men/Book/%E7%AE%97%E6%B3%95.%E7%AC%AC4%E7%89%88.pdf).
 
+<div style="display: none">
+
 The answers of textbook: [Chapter 1](/files/2026_1_DS/chapter1.pdf), [Chapter 2](/files/2026_1_DS/chapter2.pdf), [Chapter 3](/files/2026_1_DS/chapter3.pdf), [Chapter 4](/files/2026_1_DS/chapter4.pdf), [Chapter 5](/files/2026_1_DS/chapter5.pdf), [Chapter 6](/files/2026_1_DS/chapter6.pdf), [Chapter 7](/files/2026_1_DS/chapter7.pdf), [Chapter 8](/files/2026_1_DS/chapter8.pdf)
 
 
@@ -25,3 +27,12 @@ The experiment must follow [the format](/files/2026_1_DS/0408_DS_ExperimentModul
 | Diagram | [0421](/files/2026_1_DS/0421_DS_Diagram.pptx) | [exercise6](/files/2026_1_DS/06Exercise_chapter6.pdf), [homework5](/files/2026_1_DS/05DS_homework5.pdf) | [Adjacency matrix](/files/2026_1_DS/code/0423_6_1nodirdiag.txt), [adjacency table](/files/2026_1_DS/code/0423_6_2nodirdiag.txt), [DFS recursive](/files/2026_1_DS/code/0423_6_3dfs.txt), [DFS non-recursive](/files/2026_1_DS/code/0423_6_3dfs.txt), [DFS adj-matrix](/files/2026_1_DS/code/0423_6_5dfs.txt), [DFS adj-table](/files/2026_1_DS/code/0423_6_6dfs.txt), [BFS](/files/2026_1_DS/code/0423_6_7bfs.txt), [prim's algorithm](/files/2026_1_DS/code/0423_6_8prim.txt), [kruskal's algorithm](/files/2026_1_DS/code/0423_6_9criscarl.txt), [dijkskra's algorithm](/files/2026_1_DS/code/0423_6_10dijetkila.txt), [fluoride algorithm](/files/2026_1_DS/code/0423_6_11florida.txt), [topology sorting](/files/2026_1_DS/code/0423_6_12topo.txt), [critical path](/files/2026_1_DS/code/0423_6_13keyway.txt)  |
 | Search | [0430](/files/2026_1_DS/0430_DS_search.pptx) | [exercise7](/files/2026_1_DS/07Exercise_chapter7.pdf), [homework6](/files/2026_1_DS/06DS_homework6.pdf) | [binary search tree](/files/2026_1_DS/code/0509_7_bts.txt), [B tree](/files/2026_1_DS/code/0509_7_btree.txt), [Hash table](/files/2026_1_DS/code/0509_7_hashtable.txt) |
 | Sorting | [0511](/files/2026_1_DS/0511_DS_Sorting.pptx) | [exercise8](/files/2026_1_DS/08Exercise_chapter8.pdf) | ----------- |
+
+
+</div>
+
+综合实训时间：2026年6月22日-26日 上午1-4节
+
+地点：学科楼409 综合实验(三)室
+
+完成条件：[综合实验内容](/files/2026_1_DS/ds.tar.gz)
