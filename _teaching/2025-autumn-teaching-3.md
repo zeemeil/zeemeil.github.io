@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Linear Algebra"
 collection: teaching
 type: "Undergraduate course"
@@ -42,4 +42,4 @@ Answers to textbook exercises: [Chapter 1](/files/2025_2_LM/1103_chapter1_answer
 |         | [1216](/files/2025_2_LM/1219_0406.pptx) | none |  positive-define matrix |
 |         | 1219 | [LM cheat sheet](/files/2025_2_LM/lmcheatsheet.pdf) | Review |
 
-</div>
+</div> -->

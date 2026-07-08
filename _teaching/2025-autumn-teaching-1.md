@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Operation system"
 collection: teaching
 type: "Undergraduate course"
@@ -37,4 +37,4 @@ Operating system experiments contain the linux basic [commands part](/files/2025
 | 1105 | [Lab03](/files/2025_2_OS/1105_OS_experiment3.pdf) | 1119 |
 | 1119 | [LAB04](/files/2025_2_OS/1119_OS_experiment04.pdf)| expired |
 
-</div>
+</div> -->

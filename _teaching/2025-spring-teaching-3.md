@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Data Structures"
 collection: teaching
 type: "Undergraduate course"
@@ -38,4 +38,4 @@ Based on the Huffman tree data structure and Huffman encode experiment on april 
 
 [The slides](/files/2025_1_DS/0503_DS_Sorting.pptx) shows the sorting part on Mar 7 and 8 class.
 
-</div>
+</div> -->

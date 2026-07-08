@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Software Engineering"
 collection: teaching
 type: "Undergraduate course"
@@ -42,4 +42,4 @@ The slides on [execution](/files/2025_1_SE/0407_SE_chapter7Exection.pptx) at Apr
 
 [The final SE report](/files/2025_1_SE/0506_SE_examReport.docx) on May 6.
 
-</div>
+</div> -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Principles of Object-Oriented Programming and Practical Java"
 collection: teaching
 type: "Undergraduate course"
@@ -36,4 +36,4 @@ These principles are fundamental to designing and implementing software systems 
 | 1031 | [Lab03](/files/2025_2_PJ/1031_PJ_experiment3.pdf)  | 1128 |
 | 1128 | [Lab04](/files/2025_2_PJ/1128_PJ_experiment4.docx) | none |
 
-</div>
+</div> -->

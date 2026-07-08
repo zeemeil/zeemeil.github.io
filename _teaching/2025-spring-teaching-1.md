@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Artificial Intelligence Introduction"
 collection: teaching
 type: "Undergraduate course"
@@ -44,4 +44,4 @@ The experiment [code](/files/2025_1_AI/code/experiment0319_2.py) and input [file
 
 [0524 Test](/files/0524_test_linearregress.pptx)
 
-</div>
+</div> -->
