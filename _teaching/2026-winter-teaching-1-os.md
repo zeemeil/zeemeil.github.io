@@ -10,9 +10,10 @@ location: "Maoming City, China"
 
 An operating system (OS) is a set of manual and automatic procedures that enable different person share a computers installations efficiently. 
 
-| Date     |  Tasks   | Description |
+| Date     |  Tasks     | Description |
 | -------- | ---------- | ----------- |
-| [0915](/files/2025_2_OS/0902_03_OS_ch1.pptx)      |  [OS overview](/files/2025_2_OS/0902_OS_Exercise_overview.pdf)      | OS introduction |
+| [0915](/files/2025_2_OS/0902_03_OS_ch1.pptx) |  [OS overview](/files/2025_2_OS/0902_OS_Exercise_overview.pdf)   OS introduction |
+
 <!-- 
 | [0909,16](/files/2025_2_OS/0909_OS_ch2_process1.pptx) | [cpu exercise](/files/2025_2_OS/0909_OS_Exercise_cpu.pdf), [homework](/files/2025_2_OS/0909_hw01.pdf)   | procedures, cpu |
 | [0928](/files/2025_2_OS/0928_OS_ch2_process2.pptx) | [Exercise](/files/2025_2_OS/0928_OS_Exercise_cpu.pdf)   | process |
