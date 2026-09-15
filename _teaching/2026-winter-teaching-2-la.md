@@ -9,3 +9,4 @@ location: "Maoming City, China"
 ---
 
 Linear algebra is a basic lesson of the advanced mathematics in college education. Also, it provides the fundamental calculating rule to the engineering and information science disciplines.
+
