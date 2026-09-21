@@ -15,7 +15,7 @@ a modern approach, fourth edition](http://lib.ysu.am/disciplines_bk/efdd4d1d4c20
 
 | Date and Slides |  Tasks     | Description |
 | --------------- | ---------- | ----------- |
-| [0930](/files/2026_2_AI/0930_ch1_introduction.pptx)   | [homework 1]() | artificial intelligence foundation |
+| [0930a](/files/2026_2_AI/0930_ch1_introduction1.pptx), [0930b](/files/2026_2_AI/0930_ch1_introduction1.pptx)  | [homework 1](/files/2026_2_AI/0930_homework1.pdf) | artificial intelligence foundation |
 | [1008](/files/2026_2_AI/ch2_MachineLearing.pptx) | none | machine learning |
 | [1010](/files/2026_2_AI/ch3_DeepLearning.pptx) | none | deep learning |
 | [1016](/files/2026_2_AI/ch4_FederatedLearning.pptx) | none | federated learning
