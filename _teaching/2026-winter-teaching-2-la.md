@@ -14,7 +14,11 @@ Moreover, linear algebra plays significate role in most technology and sciences 
 
 Answers to textbook exercises: Chapter 1
 
-| Chapter | Date/Slides     | Tasks      | Description |
-| ------- | --------------- | ---------- | ----------- |
-| Ch1 Determinant   | [Week 5th](/files/2025_2_LM/0930_0101.pptx) | none | the order 2 and 3 determinant |
+| Date/Slides     | Tasks      | Description |
+| --------------- | ---------- | ----------- |
+| [Week 5th a](/files/2025_2_LM/0930_0101.pptx) | page24 P1 | the order 2 and 3 determinant |
+| [Week 5th b](/files/2025_2_LM/1005_0102.pptx) | page24 P2 P3 | order n determinant       |
+| [Week 6th a](/files/2025_2_LM/1007_0103.pptx) | page24 P4 | properties of determinant |
+| [Week 6th b](/files/2025_2_LM/1010_0104.pptx) | [Exercise1](/files/2025_2_LM/1017_exercise_chapter01_determinant.pdf) page25 P6 | determinant expansion     |
+
 
