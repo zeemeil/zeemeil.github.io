@@ -15,7 +15,7 @@ Except the textbook, there are several books as the references for making up the
 | Date and Slides |  Tasks     | Description |
 | --------------- | ---------- | ----------- |
 | [0915, 0917, 0920](/files/2025_2_OS/0902_03_OS_ch1.pptx) | [Exercise 1](/files/2025_2_OS/0902_OS_Exercise_overview.pdf) | OS introduction |
-| [0922, 0924, 0929](/files/2025_2_OS/0909_OS_ch2_process.pptx) | [Exercise 2](/files/2025_2_OS/0909_OS_Exercise_cpu.pdf), [Exercise 3](/files/2025_2_OS/0928_OS_Exercise_cpu.pdf),  [homework 1](/files/2025_2_OS/0909_hw01.pdf)   | procedures, cpu, thead |
+| [0922, 0924, 0929](/files/2025_2_OS/0909_OS_ch2_process.pptx), [1008](/files/2025_2_OS/0930_OS_ch2_thread.pptx) | [Exercise 2](/files/2025_2_OS/0909_OS_Exercise_cpu.pdf), [Exercise 3](/files/2025_2_OS/0928_OS_Exercise_cpu.pdf),  [homework 1](/files/2025_2_OS/0909_hw01.pdf)   | procedures, cpu, thead |
 | [1008](/files/2025_2_OS/0930_OS_ch3.pptx) | [memory exercise](/files/2025_2_OS/0930_OS_Exercise_memory.pdf) | memory |
 
 <!-- 
