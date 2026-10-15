@@ -10,7 +10,7 @@ location: "Maoming City, China"
 
 The data structure is a data organization and storage format that is usually chosen for efficient access to data. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data, i.e., it is an algebraic structure about data. There are useful textbook after class, such as [the algorithm 4th](https://yun.weicheng.men/Book/%E7%AE%97%E6%B3%95.%E7%AC%AC4%E7%89%88.pdf).
 
-<!-- <div style="display: none"> -->
+<div style="display: none">
 
 The answers of textbook: [Chapter 1](/files/2026_1_DS/chapter1.pdf), [Chapter 2](/files/2026_1_DS/chapter2.pdf), [Chapter 3](/files/2026_1_DS/chapter3.pdf), [Chapter 4](/files/2026_1_DS/chapter4.pdf), [Chapter 5](/files/2026_1_DS/chapter5.pdf), [Chapter 6](/files/2026_1_DS/chapter6.pdf), [Chapter 7](/files/2026_1_DS/chapter7.pdf), [Chapter 8](/files/2026_1_DS/chapter8.pdf)
 
@@ -37,4 +37,4 @@ The experiment must follow [the format](/files/2026_1_DS/0408_DS_ExperimentModul
 完成条件：[综合实验内容](/files/2026_1_DS/ds.tar.gz)
 
 
-<!-- </div> -->
+</div>
