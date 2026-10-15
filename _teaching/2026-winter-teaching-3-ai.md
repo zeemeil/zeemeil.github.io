@@ -18,4 +18,4 @@ a modern approach, fourth edition](http://lib.ysu.am/disciplines_bk/efdd4d1d4c20
 | [0930a](/files/2026_2_AI/0930_ch1_introduction1.pptx), [0930b](/files/2026_2_AI/0930_ch1_introduction1.pptx)  | [homework 1](/files/2026_2_AI/0930_homework1.pdf) | artificial intelligence foundation |
 | [1008, 1010](/files/2026_2_AI/ch2_MachineLearing.pptx) | none | machine learning |
 | [1014](/files/2026_2_AI/ch3_DeepLearning.pptx), [gpt](/files/2026_2_AI/1014_ChatGPT.pptx), [prompt](/files/2026_2_AI/1014_prompt.pptx) | none | deep learning |
-| 1015, [llm](/files/2026_2_AI/1015_LLM.pptx), [AIGC](/files/2026_2_AI/1015_AIGCpptx) | none | LLM |
+| 1015, [llm](/files/2026_2_AI/1015_LLM.pptx), [AIGC](/files/2026_2_AI/1015_AIGC.pptx) | none | LLM |
