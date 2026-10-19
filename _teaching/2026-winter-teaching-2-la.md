@@ -23,4 +23,7 @@ Answers to textbook exercises: [Chapter 1](/files/2025_2_LM/1103_chapter1_answer
 | [Section 1.5](/files/2025_2_LM/1017_0105.pptx) | page27 P8, [Answer1](/files/2025_2_LM/1020_Determinat_anwser.pdf),[homework 1](/files/2025_2_LM/1017_homework.pdf)  |  Cramer formula |
 | [Section 2.1](/files/2025_2_LM/1021_0201.pptx) | page 63 P1 |  Matrix  definition |
 | [Section 2.2](/files/2025_2_LM/1024_0202.pptx) | page 63 P2 | Matrix calculation |
-| [Section 2.3](/files/2025_2_LM/1024_0203.pptx) | page 64 P10,11,12,13, [Exercise2](/files/2025_2_LM/1024_Exercise_Matrices.pdf) | Inverse Matrix |
+| [Section 2.3](/files/2025_2_LM/1024_0203.pptx) | page 64 P10,11,12,13,14,15, [Exercise2](/files/2025_2_LM/1024_Exercise_Matrices.pdf) | Inverse Matrix |
+| [Section 2.4](/files/2025_2_LM/1028_0204.pptx) | page 65 P18,19,20, [homework 2](/files/2025_2_LM/1028_LM_homewok2.pdf) | Partitioned matrices |
+| [Section 2.5](/files/2025_2_LM/1031_0205.pptx) | page 65 P21, 23, page 66 P24,25, [Answer2](/files/2025_2_LM/1031_Matrices_anwser.pdf) | Matrix elementary transformation |
+| [Section 2.6](/files/2025_2_LM/1104_0206.pptx) | page 65 P25,26,27 | Matrices rank |
