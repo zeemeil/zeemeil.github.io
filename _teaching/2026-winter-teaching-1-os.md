@@ -16,7 +16,8 @@ Except the textbook, there are several books as the references for making up the
 | --------------- | ---------- | ----------- |
 | [0915, 0917, 0920](/files/2025_2_OS/0902_03_OS_ch1.pptx) | [Exercise 1](/files/2025_2_OS/0902_OS_Exercise_overview.pdf) | OS introduction |
 | [0922, 0924, 0929, 1008](/files/2025_2_OS/0909_OS_ch2_process.pptx), [1008](/files/2025_2_OS/0930_OS_ch2_thread.pptx) | [Exercise 2](/files/2025_2_OS/0909_OS_Exercise_cpu.pdf), [Exercise 3](/files/2025_2_OS/0928_OS_Exercise_cpu.pdf),  [homework 1](/files/2025_2_OS/0909_hw01.pdf)   | procedures, cpu, thead |
-| [1013, 1015, 1020, 1022](/files/2025_2_OS/0930_OS_ch4_memory.pptx) | [memory exercise](/files/2025_2_OS/0930_OS_Exercise_memory.pdf) | memory |
+| [1013, 1015, 1020, 1022, 1027](/files/2025_2_OS/0930_OS_ch4_memory.pptx) | [memory exercise](/files/2025_2_OS/0930_OS_Exercise_memory.pdf) | memory |
+| [1028](/files/2025_2_OS/1028_OS_deadlock.pptx) | none | Dead lock |
 
 
 <!-- 
@@ -33,7 +34,8 @@ Operating system experiments contain the linux basic [commands part](/files/2025
 | Experiment | Tasks  | Due date |
 | ---------- | ------ | -------- |
 | 0929 | [Lab01](/files/2025_2_OS/1011_OS_experiment1.pdf) | 1013 |
-| 1013 | [Lab02](/files/2025_2_OS/1022_OS_experiment2.pdf) | 1020 |
+| 1013 | [Lab02](/files/2025_2_OS/1022_OS_experiment2.pdf) | 1027 |
+| 1027 | [Lab03](/files/2025_2_OS/1105_OS_experiment3.pdf) | 1110 |
 
 <!-- 
 | 1022 | [Lab02](/files/2025_2_OS/1022_OS_experiment2.pdf) | 1105 |
