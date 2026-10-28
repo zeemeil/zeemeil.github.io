@@ -27,3 +27,9 @@ Answers to textbook exercises: [Chapter 1](/files/2025_2_LM/1103_chapter1_answer
 | [Section 2.4](/files/2025_2_LM/1028_0204.pptx) | page 65 P18,19,20, [homework 2](/files/2025_2_LM/1028_LM_homewok2.pdf) | Partitioned matrices |
 | [Section 2.5](/files/2025_2_LM/1031_0205.pptx) | page 65 P21, 23, page 66 P24,25, [Answer2](/files/2025_2_LM/1031_Matrices_anwser.pdf) | Matrix elementary transformation |
 | [Section 2.6](/files/2025_2_LM/1104_0206.pptx) | page 65 P25,26,27 | Matrices rank |
+| [Section 3.1](/files/2025_2_LM/1104_0301.pptx) | page118 P1,P2 | Solutions to a system of linear equations |
+| [Section 3.2](/files/2025_2_LM/1107_0302.pptx) | page118 P3,P4,P5, [homework3](/files/2025_2_LM/1111_homework.pdf) | sets of vectors and its linear combination |
+| [Section 3.3](/files/2025_2_LM/1118_0303.pptx) | page119 P8,P9,P10 | linearly dependent vectors |
+| [Section 3.4](/files/2025_2_LM/1121_0304.pptx) | page119 P13,P14 [Exercise3](/files/2025_2_LM/1121_Exercise_vector.pdf) | rank of a set of vectors |
+| [Section 3.5](/files/2025_2_LM/1125_0305.pptx) | page119 page120 P16,P17 | structure of solutions to linear systems |
+| [Section 3.6](/files/2025_2_LM/1128_0306.pptx) | [Answer3](/files/2025_2_LM/1125_Answer_vector.pdf), homework | vector space |
