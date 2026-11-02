@@ -12,6 +12,8 @@ Linear algebra is a basic lesson of the advanced mathematics in college educatio
 
 Moreover, linear algebra plays significate role in most technology and sciences because of calculating efficiently and constructing natural patton to model. Even if the nonlinear models, which is difficultly developed into linear model, there are the differential of a multivariate ways at a fixed area mapped into the best approximate field of the linear functions. Two reference books for learning linear algebra, [linear algebra textbook](https://www.math.pku.edu.cn/teachers/anjp/textbook.pdf) and [linear algebra lesson](https://innovation-activities.oss-cn-beijing.aliyuncs.com/27/mswcWkh7iX.pdf).
 
+[Linear Algebra and Its Applications by Gilbert Strang](/files/2025_2_LM/线性代数(原书第6版)%20([美]吉尔伯特·斯特朗(Gilbert%20Strang))%20.pdf)
+
 Answers to textbook exercises: [Chapter 1](/files/2025_2_LM/1103_chapter1_answer.pdf)
 
 | Section/Slides     | Tasks      | Description |
