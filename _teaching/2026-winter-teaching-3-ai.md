@@ -25,5 +25,5 @@ a modern approach, fourth edition](http://lib.ysu.am/disciplines_bk/efdd4d1d4c20
 | 1015, [llm](/files/2026_2_AI/1015_LLM.pptx), [AIGC](/files/2026_2_AI/1015_AIGC.pptx) | none | LLM |
 | [1021, 1022](/files/2026_2_AI/01Experiment.zip) | completing experiment report | linear learning, classifying figure, house price prediction |
 | [1028, 1029](/files/2026_2_AI/02Experiment.zip) | completing experiment report | KNN, logistic, SVM |
-| [1104, 1105](/files/2026_2_AI/03Experiment.zip) | experiment report | K-means |
+| [1104](/files/2026_2_AI/04Experiment_1.zip), [1105](/files/2026_2_AI/03Experiment.zip) | writing experiment 3 report | K-means |
 | [1111, 1112](/files/2026_2_AI/04Experiment.zip) | experiment report | Tang poetry analysis |

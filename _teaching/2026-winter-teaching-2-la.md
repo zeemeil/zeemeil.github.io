@@ -14,7 +14,7 @@ Moreover, linear algebra plays significate role in most technology and sciences 
 
 [Linear Algebra and Its Applications by Gilbert Strang](/files/2025_2_LM/线性代数(原书第6版)%20([美]吉尔伯特·斯特朗(Gilbert%20Strang))%20.pdf)
 
-Answers to textbook exercises: [Chapter 1](/files/2025_2_LM/1103_chapter1_answer.pdf)
+Answers to textbook exercises: [Chapter 1](/files/2025_2_LM/1103_chapter1_answer.pdf), [Chapter 2](/files/2025_2_LM/1103_chapter2_answer.pdf)
 
 | Section/Slides     | Tasks      | Description |
 | --------------- | ---------- | ----------- |

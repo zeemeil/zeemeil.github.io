@@ -19,7 +19,7 @@ Except the textbook, there are several books as the references for making up the
 | [1013, 1015, 1020, 1022, 1027](/files/2025_2_OS/0930_OS_ch4_memory.pptx) | [memory exercise](/files/2025_2_OS/0930_OS_Exercise_memory.pdf) | memory |
 | [1029](/files/2025_2_OS/1028_OS_deadlock.pptx) | none | Dead lock |
 | [1103,1105](/files/2025_2_OS/1015_OS_device.pptx) | [Exercise 4](/files/2025_2_OS/1021_OS_Exercise_device.pdf) | Devices manage |
-| [1109,1112](/files/2025_2_OS/1028_OS_file.pptx) | [Exercise](/files/2025_2_OS/1028_OS_Exercise_file.pdf) | file manage |
+| [1109,1112](/files/2025_2_OS/1028_OS_file.pptx) | [Exercise 5](/files/2025_2_OS/1028_OS_Exercise_file.pdf) | file manage |
 
 <!-- 
 
