@@ -13,7 +13,7 @@ Based on Wiki, artificial Intelligence（AI）aims to simulate or create intelli
 Except the textbook, there are several books as the references for making up the detail, such as [artificial intelligence lecture](https://www.cs.sjtu.edu.cn/~linghe.kong/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%AE%B2%E4%B9%89%E5%86%AF%E7%BF%94.pdf), [artificial intelligence
 a modern approach, fourth edition](http://lib.ysu.am/disciplines_bk/efdd4d1d4c2087fe1cbe03d9ced67f34.pdf). A online neural network [example](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.57497&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) showing how the data work inside the model. 
 
-[Python learn textbook](/files/2026_2_AI/看漫画学Python：有趣、有料、好玩、好用：全彩版.pdf)
+[Python learning textbook](/files/2026_2_AI/看漫画学Python：有趣、有料、好玩、好用：全彩版.pdf)
 
 [Standard Lab Report Format](/files/2025_2_OS/1011_OS_Experiment_model.docx)
 
@@ -25,5 +25,5 @@ a modern approach, fourth edition](http://lib.ysu.am/disciplines_bk/efdd4d1d4c20
 | 1015, [llm](/files/2026_2_AI/1015_LLM.pptx), [AIGC](/files/2026_2_AI/1015_AIGC.pptx) | none | LLM |
 | [1021, 1022](/files/2026_2_AI/01Experiment.zip) | completing experiment report | linear learning, classifying figure, house price prediction |
 | [1028, 1029](/files/2026_2_AI/02Experiment.zip) | completing experiment report | KNN, logistic, SVM |
-| [1104](/files/2026_2_AI/04Experiment_1.zip), [1105](/files/2026_2_AI/03Experiment.zip) | writing experiment 3 report | K-means |
+| [1104](/files/2026_2_AI/03Experiment_1.zip), [1105](/files/2026_2_AI/03Experiment.zip) | writing experiment 3 report | K-means |
 | [1111, 1112](/files/2026_2_AI/04Experiment.zip) | experiment report | Tang poetry analysis |
