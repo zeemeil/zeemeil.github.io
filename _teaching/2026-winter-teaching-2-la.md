@@ -34,7 +34,7 @@ Answers to textbook exercises: [Chapter 1](/files/2025_2_LM/1103_chapter1_answer
 | [Section 3.3](/files/2025_2_LM/1118_0303.pptx) | page119 P8,P9,P10 | linearly dependent vectors |
 | [Section 3.4](/files/2025_2_LM/1121_0304.pptx) | page119 P13,P14 [Exercise3](/files/2025_2_LM/1121_Exercise_vector.pdf) | rank of a set of vectors |
 | [Section 3.5](/files/2025_2_LM/1125_0305.pptx) | page119 page120 P16,P17 | structure of solutions to linear systems |
-| [Section 3.6](/files/2025_2_LM/1128_0306.pptx) | [Answer3](/files/2025_2_LM/1125_Answer_vector.pdf), homework | vector space |
+| [Section 3.6](/files/2025_2_LM/1128_0306.pptx) | [Answer3](/files/2025_2_LM/1125_Answer_vector.pdf) | vector space |
 | [Section 4.1](/files/2025_2_LM/1202_0401.pptx) | page160 P2,3,4,5,6 [Exercise4](/files/2025_2_LM/1128_Exercise_linearSystem.pdf) | dot product |
 | [Section 4.2](/files/2025_2_LM/1205_0402.pptx) | page160 P7,9,11,12 [homework4](/files/2025_2_LM/1124_homework.pdf), [Answer4](/files/2025_2_LM/1209_Answer_linearSystem.pdf) | Eigenvalue, eigenvector |
 | [Section 4.3](/files/2025_2_LM/1209_0403.pptx) | [Exercise5](/files/2025_2_LM/1216_Exercise_%20diagonalization.pdf) | similar matrix |
